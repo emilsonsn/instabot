@@ -1,0 +1,8 @@
+{
+    "mensagens": {
+        "mensagem1" : "Essa é a mensagem 1" ,
+        "mensagem2" : "Essa é a mensagem 2" ,
+        "mensagem3" : "Essa é a mensagem 3" 
+    },
+    "tempo_de_espera": 2
+}
