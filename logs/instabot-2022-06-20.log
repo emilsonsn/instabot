@@ -1,4 +1,461 @@
-06/20/2022 05:17:32::INFO::instabot.py::55 - sdvdv
-06/20/2022 09:17:34::WARNING::instabot.py::43 - Não foi possível efetuar o login corretamente. Usuário:sadvs
-06/20/2022 09:17:34::ERROR::instabot.py::47 - Erro inesperado ao tentar logar. Usuários:sadvs
-06/20/2022 09:17:34::INFO::instabot.py::54 - sdvdv
+06/20/2022 09:58:22::ERROR::usuarios.py::33 - Não foi possível carregar base de usuários.local variable 'fim' referenced before assignment
+06/20/2022 10:01:14::ERROR::usuarios.py::34 - Não foi possível carregar base de usuários.[Errno 2] No such file or directory: '../datebase/contas.xlsx'
+06/20/2022 10:01:24::ERROR::usuarios.py::34 - Não foi possível carregar base de usuários.local variable 'fim' referenced before assignment
+06/20/2022 10:05:40::ERROR::usuarios.py::35 - Não foi possível carregar base de usuários.name 'conta_' is not defined
+06/20/2022 10:07:32::WARNING::usuarios.py::28 - Conta não econtrada na base de daos. Tente novamente.
+06/20/2022 10:07:56::WARNING::usuarios.py::28 - Conta não econtrada na base de daos. Tente novamente.
+06/20/2022 10:08:14::WARNING::usuarios.py::28 - Conta não econtrada na base de daos. Tente novamente.
+06/20/2022 10:08:39::WARNING::usuarios.py::27 - Conta não econtrada na base de daos. Tente novamente.
+06/20/2022 10:08:58::WARNING::usuarios.py::27 - Conta não econtrada na base de daos. Tente novamente.
+06/20/2022 10:09:15::WARNING::usuarios.py::27 - Conta não econtrada na base de daos. Tente novamente.
+06/20/2022 10:10:37::ERROR::instabot.py::47 - Erro inesperado ao tentar logar. Usuários:emilson.snMessage: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x560af251af33 <unknown>
+#1 0x560af2264faf <unknown>
+#2 0x560af22532e4 <unknown>
+#3 0x560af2253cf2 <unknown>
+#4 0x560af2255b12 <unknown>
+#5 0x560af224df16 <unknown>
+#6 0x560af2266522 <unknown>
+#7 0x560af22cb961 <unknown>
+#8 0x560af22b8e63 <unknown>
+#9 0x560af228e82a <unknown>
+#10 0x560af228f985 <unknown>
+#11 0x560af255f4cd <unknown>
+#12 0x560af25635ec <unknown>
+#13 0x560af254971e <unknown>
+#14 0x560af2564238 <unknown>
+#15 0x560af253e870 <unknown>
+#16 0x560af2580608 <unknown>
+#17 0x560af2580788 <unknown>
+#18 0x560af259af1d <unknown>
+#19 0x7fbcde0e9b43 <unknown>
+
+06/20/2022 10:10:37::WARNING::usuarios.py::27 - Conta não econtrada na base de daos. Tente novamente.
+06/20/2022 10:11:38::ERROR::usuarios.py::37 - Não foi possível carregar base de usuários.unsupported operand type(s) for +: 'int' and 'str'
+06/20/2022 10:13:23::WARNING::usuarios.py::28 - Conta não econtrada na base de daos. Tente novamente.
+06/20/2022 10:14:24::WARNING::usuarios.py::28 - Conta não econtrada na base de daos. Tente novamente.
+06/20/2022 10:14:58::INFO::usuarios.py::36 - Base de usuários carregada com sucesso.
+06/20/2022 10:15:02::ERROR::instabot.py::47 - Erro inesperado ao tentar logar. Usuários:emilson.sn1Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x5633e7120f33 <unknown>
+#1 0x5633e6e6b118 <unknown>
+#2 0x5633e6e4b0d8 <unknown>
+#3 0x5633e6ec251b <unknown>
+#4 0x5633e6ed1915 <unknown>
+#5 0x5633e6ebee63 <unknown>
+#6 0x5633e6e9482a <unknown>
+#7 0x5633e6e95985 <unknown>
+#8 0x5633e71654cd <unknown>
+#9 0x5633e71695ec <unknown>
+#10 0x5633e714f71e <unknown>
+#11 0x5633e716a238 <unknown>
+#12 0x5633e7144870 <unknown>
+#13 0x5633e7186608 <unknown>
+#14 0x5633e7186788 <unknown>
+#15 0x5633e71a0f1d <unknown>
+#16 0x7f46c89ddb43 <unknown>
+
+06/20/2022 10:15:36::INFO::usuarios.py::35 - Base de usuários carregada com sucesso.
+06/20/2022 10:15:51::ERROR::instabot.py::47 - Erro inesperado ao tentar logar. Usuários:emilson.sn2Message: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x55e8dca23f33 <unknown>
+#1 0x55e8dc76dfaf <unknown>
+#2 0x55e8dc75c2e4 <unknown>
+#3 0x55e8dc75ccf2 <unknown>
+#4 0x55e8dc75eb12 <unknown>
+#5 0x55e8dc756f16 <unknown>
+#6 0x55e8dc76f522 <unknown>
+#7 0x55e8dc7d4961 <unknown>
+#8 0x55e8dc7c1e63 <unknown>
+#9 0x55e8dc79782a <unknown>
+#10 0x55e8dc798985 <unknown>
+#11 0x55e8dca684cd <unknown>
+#12 0x55e8dca6c5ec <unknown>
+#13 0x55e8dca5271e <unknown>
+#14 0x55e8dca6d238 <unknown>
+#15 0x55e8dca47870 <unknown>
+#16 0x55e8dca89608 <unknown>
+#17 0x55e8dca89788 <unknown>
+#18 0x55e8dcaa3f1d <unknown>
+#19 0x7f139d73cb43 <unknown>
+
+06/20/2022 10:16:42::INFO::usuarios.py::35 - Base de usuários carregada com sucesso.
+06/20/2022 10:16:46::ERROR::instabot.py::47 - Erro inesperado ao tentar logar. Usuários:emilson.sn2Message: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x56033cdd6f33 <unknown>
+#1 0x56033cb20faf <unknown>
+#2 0x56033cb0f2e4 <unknown>
+#3 0x56033cb0fcf2 <unknown>
+#4 0x56033cb11b12 <unknown>
+#5 0x56033cb09f16 <unknown>
+#6 0x56033cb22522 <unknown>
+#7 0x56033cb87961 <unknown>
+#8 0x56033cb74e63 <unknown>
+#9 0x56033cb4a82a <unknown>
+#10 0x56033cb4b985 <unknown>
+#11 0x56033ce1b4cd <unknown>
+#12 0x56033ce1f5ec <unknown>
+#13 0x56033ce0571e <unknown>
+#14 0x56033ce20238 <unknown>
+#15 0x56033cdfa870 <unknown>
+#16 0x56033ce3c608 <unknown>
+#17 0x56033ce3c788 <unknown>
+#18 0x56033ce56f1d <unknown>
+#19 0x7f7703c53b43 <unknown>
+
+06/20/2022 10:17:04::INFO::usuarios.py::35 - Base de usuários carregada com sucesso.
+06/20/2022 10:17:14::ERROR::instabot.py::47 - Erro inesperado ao tentar logar. Usuários:emilson.sn2Message: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x561017e50f33 <unknown>
+#1 0x561017b9afaf <unknown>
+#2 0x561017b892e4 <unknown>
+#3 0x561017b89cf2 <unknown>
+#4 0x561017b8bb12 <unknown>
+#5 0x561017b83f16 <unknown>
+#6 0x561017b9c522 <unknown>
+#7 0x561017c01961 <unknown>
+#8 0x561017beee63 <unknown>
+#9 0x561017bc482a <unknown>
+#10 0x561017bc5985 <unknown>
+#11 0x561017e954cd <unknown>
+#12 0x561017e995ec <unknown>
+#13 0x561017e7f71e <unknown>
+#14 0x561017e9a238 <unknown>
+#15 0x561017e74870 <unknown>
+#16 0x561017eb6608 <unknown>
+#17 0x561017eb6788 <unknown>
+#18 0x561017ed0f1d <unknown>
+#19 0x7fa23eb1cb43 <unknown>
+
+06/20/2022 10:17:38::INFO::usuarios.py::35 - Base de usuários carregada com sucesso.
+06/20/2022 10:17:43::ERROR::instabot.py::47 - Erro inesperado ao tentar logar. Usuários:emilson.sn1Message: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x55c28735df33 <unknown>
+#1 0x55c2870a7faf <unknown>
+#2 0x55c2870962e4 <unknown>
+#3 0x55c287096cf2 <unknown>
+#4 0x55c287098b12 <unknown>
+#5 0x55c287090f16 <unknown>
+#6 0x55c2870a9522 <unknown>
+#7 0x55c28710e961 <unknown>
+#8 0x55c2870fbe63 <unknown>
+#9 0x55c2870d182a <unknown>
+#10 0x55c2870d2985 <unknown>
+#11 0x55c2873a24cd <unknown>
+#12 0x55c2873a65ec <unknown>
+#13 0x55c28738c71e <unknown>
+#14 0x55c2873a7238 <unknown>
+#15 0x55c287381870 <unknown>
+#16 0x55c2873c3608 <unknown>
+#17 0x55c2873c3788 <unknown>
+#18 0x55c2873ddf1d <unknown>
+#19 0x7f6195e6cb43 <unknown>
+
+06/20/2022 10:17:55::INFO::usuarios.py::35 - Base de usuários carregada com sucesso.
+06/20/2022 10:18:03::ERROR::instabot.py::47 - Erro inesperado ao tentar logar. Usuários:emilson.sn1Message: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x56443b3b9f33 <unknown>
+#1 0x56443b103faf <unknown>
+#2 0x56443b0f22e4 <unknown>
+#3 0x56443b0f2cf2 <unknown>
+#4 0x56443b0f4b12 <unknown>
+#5 0x56443b0ecf16 <unknown>
+#6 0x56443b105522 <unknown>
+#7 0x56443b16a961 <unknown>
+#8 0x56443b157e63 <unknown>
+#9 0x56443b12d82a <unknown>
+#10 0x56443b12e985 <unknown>
+#11 0x56443b3fe4cd <unknown>
+#12 0x56443b4025ec <unknown>
+#13 0x56443b3e871e <unknown>
+#14 0x56443b403238 <unknown>
+#15 0x56443b3dd870 <unknown>
+#16 0x56443b41f608 <unknown>
+#17 0x56443b41f788 <unknown>
+#18 0x56443b439f1d <unknown>
+#19 0x7fe6c74d5b43 <unknown>
+
+06/20/2022 10:19:46::INFO::usuarios.py::35 - Base de usuários carregada com sucesso.
+06/20/2022 10:19:52::ERROR::instabot.py::47 - Erro inesperado ao tentar logar. Usuários:emilson.sn1Message: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x55cef19e9f33 <unknown>
+#1 0x55cef1733faf <unknown>
+#2 0x55cef17222e4 <unknown>
+#3 0x55cef1722cf2 <unknown>
+#4 0x55cef1724b12 <unknown>
+#5 0x55cef171cf16 <unknown>
+#6 0x55cef1735522 <unknown>
+#7 0x55cef179a961 <unknown>
+#8 0x55cef1787e63 <unknown>
+#9 0x55cef175d82a <unknown>
+#10 0x55cef175e985 <unknown>
+#11 0x55cef1a2e4cd <unknown>
+#12 0x55cef1a325ec <unknown>
+#13 0x55cef1a1871e <unknown>
+#14 0x55cef1a33238 <unknown>
+#15 0x55cef1a0d870 <unknown>
+#16 0x55cef1a4f608 <unknown>
+#17 0x55cef1a4f788 <unknown>
+#18 0x55cef1a69f1d <unknown>
+#19 0x7f853ac06b43 <unknown>
+
+06/20/2022 10:20:34::INFO::usuarios.py::35 - Base de usuários carregada com sucesso.
+06/20/2022 10:20:39::ERROR::instabot.py::47 - Erro inesperado ao tentar logar. Usuários:emilson.sn1Message: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x55d53afc9f33 <unknown>
+#1 0x55d53ad13faf <unknown>
+#2 0x55d53ad022e4 <unknown>
+#3 0x55d53ad02cf2 <unknown>
+#4 0x55d53ad04b12 <unknown>
+#5 0x55d53acfcf16 <unknown>
+#6 0x55d53ad15522 <unknown>
+#7 0x55d53ad7a961 <unknown>
+#8 0x55d53ad67e63 <unknown>
+#9 0x55d53ad3d82a <unknown>
+#10 0x55d53ad3e985 <unknown>
+#11 0x55d53b00e4cd <unknown>
+#12 0x55d53b0125ec <unknown>
+#13 0x55d53aff871e <unknown>
+#14 0x55d53b013238 <unknown>
+#15 0x55d53afed870 <unknown>
+#16 0x55d53b02f608 <unknown>
+#17 0x55d53b02f788 <unknown>
+#18 0x55d53b049f1d <unknown>
+#19 0x7f057d935b43 <unknown>
+
+06/20/2022 10:25:41::ERROR::perfis.py::38 - Não foi possível carregar base de dados'perfis'
+06/20/2022 10:26:52::ERROR::perfis.py::39 - Não foi possível carregar base de dados'perfis'
+06/20/2022 10:27:43::INFO::perfis.py::36 - Base de perfis carregada com sucesso.
+06/20/2022 10:27:45::ERROR::instabot.py::47 - Erro inesperado ao tentar logar. Usuários:emilson.sn2Message: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x563bcecd5f33 <unknown>
+#1 0x563bcea1ffaf <unknown>
+#2 0x563bcea0e2e4 <unknown>
+#3 0x563bcea0f3f9 <unknown>
+#4 0x563bcea10b12 <unknown>
+#5 0x563bcea08f16 <unknown>
+#6 0x563bcea21522 <unknown>
+#7 0x563bcea86961 <unknown>
+#8 0x563bcea73e63 <unknown>
+#9 0x563bcea4982a <unknown>
+#10 0x563bcea4a985 <unknown>
+#11 0x563bced1a4cd <unknown>
+#12 0x563bced1e5ec <unknown>
+#13 0x563bced0471e <unknown>
+#14 0x563bced1f238 <unknown>
+#15 0x563bcecf9870 <unknown>
+#16 0x563bced3b608 <unknown>
+#17 0x563bced3b788 <unknown>
+#18 0x563bced55f1d <unknown>
+#19 0x7f855aa90b43 <unknown>
+
+06/20/2022 10:30:31::WARNING::perfis.py::26 - Conta não econtrada na base de daos. Tente novamente.
+06/20/2022 10:30:42::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/20/2022 10:31:03::INFO::perfis.py::34 - Base de perfis carregada com sucesso.
+06/20/2022 10:31:27::WARNING::perfis.py::26 - Conta não econtrada na base de daos. Tente novamente.
+06/20/2022 10:31:43::INFO::perfis.py::34 - Base de perfis carregada com sucesso.
+06/20/2022 10:33:17::INFO::perfis.py::34 - Base de perfis carregada com sucesso.
+06/20/2022 10:33:38::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/20/2022 10:34:25::INFO::perfis.py::34 - Base de perfis carregada com sucesso.
+06/20/2022 10:35:10::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/20/2022 10:35:31::ERROR::perfis.py::37 - Não foi possível carregar base de dados'perfis'
+06/20/2022 10:35:44::ERROR::perfis.py::37 - Não foi possível carregar base de dados'perfis'
+06/20/2022 10:35:50::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/20/2022 10:36:17::ERROR::perfis.py::37 - Não foi possível carregar base de dadosname 'inicio' is not defined
+06/20/2022 10:36:53::ERROR::perfis.py::37 - Não foi possível carregar base de dados'perfis'
+06/20/2022 10:37:32::ERROR::perfis.py::37 - Não foi possível carregar base de dados 'perfis'
+06/20/2022 10:38:01::ERROR::perfis.py::37 - Não foi possível carregar base de dados :: 'perfis'
+06/20/2022 10:38:10::ERROR::perfis.py::37 - Não foi possível carregar base de dados :: 'perfis'
+06/20/2022 10:38:17::ERROR::perfis.py::37 - Não foi possível carregar base de dados :: 'perfis'
+06/20/2022 10:38:44::ERROR::perfis.py::37 - Não foi possível carregar base de dados :: 'perfis'
+06/20/2022 10:38:57::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/20/2022 10:39:22::ERROR::perfis.py::38 - Não foi possível carregar base de dados :: 'perfis'
+06/20/2022 10:39:51::ERROR::perfis.py::38 - Não foi possível carregar base de dados :: 'perfis'
+06/20/2022 10:40:05::ERROR::perfis.py::38 - Não foi possível carregar base de dados :: 'perfis'
+06/20/2022 10:41:00::ERROR::perfis.py::38 - Não foi possível carregar base de dados :: 'perfis'
+06/20/2022 10:41:56::ERROR::perfis.py::38 - Não foi possível carregar base de dados :: 'perfis'
+06/20/2022 10:42:18::ERROR::perfis.py::39 - Não foi possível carregar base de dados :: 'perfis'
+06/20/2022 10:42:44::WARNING::perfis.py::26 - Conta não econtrada na base de daods. Tente novamente.
+06/20/2022 10:42:54::ERROR::perfis.py::40 - Não foi possível carregar base de dados :: 'perfis'
+06/20/2022 10:43:51::ERROR::perfis.py::40 - Não foi possível carregar base de dados :: 'Perfis'
+06/20/2022 10:44:27::INFO::perfis.py::36 - Base de perfis carregada com sucesso.
+06/20/2022 10:45:03::INFO::perfis.py::36 - Base de perfis carregada com sucesso.
+06/20/2022 10:45:30::INFO::perfis.py::34 - Base de perfis carregada com sucesso.
+06/20/2022 10:46:05::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/20/2022 10:46:14::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/20/2022 10:46:48::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/20/2022 10:47:45::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/20/2022 10:48:03::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/20/2022 10:49:13::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/20/2022 10:49:52::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/20/2022 10:50:03::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/20/2022 10:51:02::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/20/2022 10:51:28::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/20/2022 10:51:56::WARNING::perfis.py::28 - Conta não econtrada na base de daods. Tente novamente.
+06/20/2022 10:52:02::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/20/2022 10:52:28::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/20/2022 11:12:41::WARNING::instabot.py::45 - Não foi possível efetuar o login corretamente. Usuário:emilson.sn
+06/20/2022 11:13:57::INFO::instabot.py::47 - Login efetuado corretamente. Usuário:emilson.sn
+06/20/2022 11:13:58::WARNING::perfis.py::28 - Conta não econtrada na base de daods. Tente novamente.
+06/20/2022 11:14:37::INFO::instabot.py::47 - Login efetuado corretamente. Usuário:emilson.sn
+06/20/2022 11:14:37::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/20/2022 11:16:23::INFO::instabot.py::47 - Login efetuado corretamente. Usuário:emilson.sn
+06/20/2022 11:16:23::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/20/2022 11:18:07::INFO::instabot.py::47 - Login efetuado corretamente. Usuário:emilson.sn
+06/20/2022 11:18:07::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/20/2022 11:20:21::INFO::instabot.py::47 - Login efetuado corretamente. Usuário:emilson.sn
+06/20/2022 11:20:22::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/20/2022 11:22:15::ERROR::instabot.py::49 - Erro inesperado ao tentar logar. Usuários:emilson.snMessage: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x5608b043cf33 <unknown>
+#1 0x5608b0186faf <unknown>
+#2 0x5608b01752e4 <unknown>
+#3 0x5608b0175cf2 <unknown>
+#4 0x5608b0177b12 <unknown>
+#5 0x5608b016ff16 <unknown>
+#6 0x5608b0188522 <unknown>
+#7 0x5608b01ed961 <unknown>
+#8 0x5608b01dae63 <unknown>
+#9 0x5608b01b082a <unknown>
+#10 0x5608b01b1985 <unknown>
+#11 0x5608b04814cd <unknown>
+#12 0x5608b04855ec <unknown>
+#13 0x5608b046b71e <unknown>
+#14 0x5608b0486238 <unknown>
+#15 0x5608b0460870 <unknown>
+#16 0x5608b04a2608 <unknown>
+#17 0x5608b04a2788 <unknown>
+#18 0x5608b04bcf1d <unknown>
+#19 0x7f7829d9fb43 <unknown>
+
+06/20/2022 11:22:34::INFO::instabot.py::47 - Login efetuado corretamente. Usuário:emilson.sn
+06/20/2022 11:22:34::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/20/2022 11:25:15::INFO::instabot.py::47 - Login efetuado corretamente. Usuário:emilson.sn
+06/20/2022 11:25:15::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/20/2022 11:26:02::ERROR::instabot.py::49 - Erro inesperado ao tentar logar. Usuários:emilson.snMessage: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x556e955f3f33 <unknown>
+#1 0x556e9533dfaf <unknown>
+#2 0x556e9532c2e4 <unknown>
+#3 0x556e9532ccf2 <unknown>
+#4 0x556e9532eb12 <unknown>
+#5 0x556e95326f16 <unknown>
+#6 0x556e9533f522 <unknown>
+#7 0x556e953a4961 <unknown>
+#8 0x556e95391e63 <unknown>
+#9 0x556e9536782a <unknown>
+#10 0x556e95368985 <unknown>
+#11 0x556e956384cd <unknown>
+#12 0x556e9563c5ec <unknown>
+#13 0x556e9562271e <unknown>
+#14 0x556e9563d238 <unknown>
+#15 0x556e95617870 <unknown>
+#16 0x556e95659608 <unknown>
+#17 0x556e95659788 <unknown>
+#18 0x556e95673f1d <unknown>
+#19 0x7fd7426d2b43 <unknown>
+
+06/20/2022 11:26:20::INFO::instabot.py::47 - Login efetuado corretamente. Usuário:emilson.sn
+06/20/2022 11:26:20::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/20/2022 11:27:46::INFO::instabot.py::47 - Login efetuado corretamente. Usuário:emilson.sn
+06/20/2022 11:27:46::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/20/2022 11:29:14::INFO::instabot.py::47 - Login efetuado corretamente. Usuário:emilson.sn
+06/20/2022 11:29:14::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/20/2022 11:31:17::INFO::instabot.py::47 - Login efetuado corretamente. Usuário:emilson.sn
+06/20/2022 11:31:17::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/20/2022 11:32:37::ERROR::instabot.py::49 - Erro inesperado ao tentar logar. Usuários:xdMessage: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x557b7c1e1f33 <unknown>
+#1 0x557b7bf2bfaf <unknown>
+#2 0x557b7bf1a2e4 <unknown>
+#3 0x557b7bf1acf2 <unknown>
+#4 0x557b7bf1cb12 <unknown>
+#5 0x557b7bf14f16 <unknown>
+#6 0x557b7bf2d522 <unknown>
+#7 0x557b7bf92961 <unknown>
+#8 0x557b7bf7fe63 <unknown>
+#9 0x557b7bf5582a <unknown>
+#10 0x557b7bf56985 <unknown>
+#11 0x557b7c2264cd <unknown>
+#12 0x557b7c22a5ec <unknown>
+#13 0x557b7c21071e <unknown>
+#14 0x557b7c22b238 <unknown>
+#15 0x557b7c205870 <unknown>
+#16 0x557b7c247608 <unknown>
+#17 0x557b7c247788 <unknown>
+#18 0x557b7c261f1d <unknown>
+#19 0x7ff6b8725b43 <unknown>
+
+06/20/2022 11:32:49::ERROR::instabot.py::49 - Erro inesperado ao tentar logar. Usuários:emilson.snMessage: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x562163703f33 <unknown>
+#1 0x56216344dfaf <unknown>
+#2 0x56216343c2e4 <unknown>
+#3 0x56216343ccf2 <unknown>
+#4 0x56216343eb12 <unknown>
+#5 0x562163436f16 <unknown>
+#6 0x56216344f522 <unknown>
+#7 0x5621634b4961 <unknown>
+#8 0x5621634a1e63 <unknown>
+#9 0x56216347782a <unknown>
+#10 0x562163478985 <unknown>
+#11 0x5621637484cd <unknown>
+#12 0x56216374c5ec <unknown>
+#13 0x56216373271e <unknown>
+#14 0x56216374d238 <unknown>
+#15 0x562163727870 <unknown>
+#16 0x562163769608 <unknown>
+#17 0x562163769788 <unknown>
+#18 0x562163783f1d <unknown>
+#19 0x7f86ec064b43 <unknown>
+
+06/20/2022 11:33:11::INFO::instabot.py::47 - Login efetuado corretamente. Usuário:emilson.sn
+06/20/2022 11:33:12::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/20/2022 11:35:03::INFO::instabot.py::47 - Login efetuado corretamente. Usuário:emilson.sn
+06/20/2022 11:35:04::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/20/2022 11:37:57::INFO::instabot.py::47 - Login efetuado corretamente. Usuário:emilson.sn
+06/20/2022 11:37:57::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/20/2022 11:54:13::ERROR::instabot.py::49 - Erro inesperado ao tentar logar. Usuários:emilson.snMessage: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x55d7d3a32f33 <unknown>
+#1 0x55d7d377d118 <unknown>
+#2 0x55d7d375d0d8 <unknown>
+#3 0x55d7d37d451b <unknown>
+#4 0x55d7d37e3915 <unknown>
+#5 0x55d7d37d0e63 <unknown>
+#6 0x55d7d37a682a <unknown>
+#7 0x55d7d37a7985 <unknown>
+#8 0x55d7d3a774cd <unknown>
+#9 0x55d7d3a7b5ec <unknown>
+#10 0x55d7d3a6171e <unknown>
+#11 0x55d7d3a7c238 <unknown>
+#12 0x55d7d3a56870 <unknown>
+#13 0x55d7d3a98608 <unknown>
+#14 0x55d7d3a98788 <unknown>
+#15 0x55d7d3ab2f1d <unknown>
+#16 0x7fac5c8aeb43 <unknown>
+
+06/20/2022 11:54:28::INFO::instabot.py::47 - Login efetuado corretamente. Usuário:emilson.sn
+06/20/2022 11:54:28::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/20/2022 11:56:00::INFO::instabot.py::48 - Login efetuado corretamente. Usuário:emilson.sn
+06/20/2022 11:56:00::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/20/2022 11:58:07::INFO::instabot.py::48 - Login efetuado corretamente. Usuário:emilson.sn
+06/20/2022 11:58:07::INFO::perfis.py::35 - Base de perfis carregada com sucesso.

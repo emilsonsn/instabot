@@ -1,0 +1,68 @@
+06/21/2022 12:08:40::INFO::instabot.py::48 - Login efetuado corretamente. Usuário:emilson.sn
+06/21/2022 12:08:40::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/21/2022 08:01:59::INFO::instabot.py::48 - Login efetuado corretamente. Usuário:emilson.sn
+06/21/2022 08:02:00::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/21/2022 08:02:54::INFO::instabot.py::48 - Login efetuado corretamente. Usuário:emilson.sn
+06/21/2022 08:02:55::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/21/2022 08:03:53::ERROR::instabot.py::50 - Erro inesperado ao tentar logar. Usuários:emilson.snMessage: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x55acbf9cff33 <unknown>
+#1 0x55acbf719faf <unknown>
+#2 0x55acbf7082e4 <unknown>
+#3 0x55acbf708cf2 <unknown>
+#4 0x55acbf70ab12 <unknown>
+#5 0x55acbf702f16 <unknown>
+#6 0x55acbf71b522 <unknown>
+#7 0x55acbf780961 <unknown>
+#8 0x55acbf76de63 <unknown>
+#9 0x55acbf74382a <unknown>
+#10 0x55acbf744985 <unknown>
+#11 0x55acbfa144cd <unknown>
+#12 0x55acbfa185ec <unknown>
+#13 0x55acbf9fe71e <unknown>
+#14 0x55acbfa19238 <unknown>
+#15 0x55acbf9f3870 <unknown>
+#16 0x55acbfa35608 <unknown>
+#17 0x55acbfa35788 <unknown>
+#18 0x55acbfa4ff1d <unknown>
+#19 0x7fc7c16bab43 <unknown>
+
+06/21/2022 08:04:12::INFO::instabot.py::48 - Login efetuado corretamente. Usuário:emilson.sn
+06/21/2022 08:04:12::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/21/2022 08:06:34::INFO::instabot.py::48 - Login efetuado corretamente. Usuário:emilson.sn
+06/21/2022 08:06:34::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/21/2022 08:07:38::INFO::instabot.py::48 - Login efetuado corretamente. Usuário:emilson.sn
+06/21/2022 08:07:39::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/21/2022 08:08:39::INFO::instabot.py::48 - Login efetuado corretamente. Usuário:emilson.sn
+06/21/2022 08:08:39::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/21/2022 08:09:57::INFO::instabot.py::48 - Login efetuado corretamente. Usuário:emilson.sn
+06/21/2022 08:09:58::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/21/2022 08:11:03::ERROR::instabot.py::50 - Erro inesperado ao tentar logar. Usuários:emilson.snMessage: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x55a1f3ef9f33 <unknown>
+#1 0x55a1f3c44118 <unknown>
+#2 0x55a1f3c240d8 <unknown>
+#3 0x55a1f3c9b51b <unknown>
+#4 0x55a1f3caa915 <unknown>
+#5 0x55a1f3c97e63 <unknown>
+#6 0x55a1f3c6d82a <unknown>
+#7 0x55a1f3c6e985 <unknown>
+#8 0x55a1f3f3e4cd <unknown>
+#9 0x55a1f3f425ec <unknown>
+#10 0x55a1f3f2871e <unknown>
+#11 0x55a1f3f43238 <unknown>
+#12 0x55a1f3f1d870 <unknown>
+#13 0x55a1f3f5f608 <unknown>
+#14 0x55a1f3f5f788 <unknown>
+#15 0x55a1f3f79f1d <unknown>
+#16 0x7fdabeac1b43 <unknown>
+
+06/21/2022 08:11:22::INFO::instabot.py::48 - Login efetuado corretamente. Usuário:emilson.sn
+06/21/2022 08:11:23::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/21/2022 08:15:06::INFO::instabot.py::48 - Login efetuado corretamente. Usuário:emilson.sn
+06/21/2022 08:15:07::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/21/2022 08:16:23::INFO::instabot.py::50 - Login efetuado corretamente. Usuário:emilson.sn
+06/21/2022 08:16:24::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
