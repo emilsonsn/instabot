@@ -66,3 +66,432 @@ Stacktrace:
 06/21/2022 08:15:07::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
 06/21/2022 08:16:23::INFO::instabot.py::50 - Login efetuado corretamente. Usuário:emilson.sn
 06/21/2022 08:16:24::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/21/2022 08:32:44::ERROR::instabot.py::51 - Erro inesperado ao tentar logar. Usuários:emilson.snMessage: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x56112f317f33 <unknown>
+#1 0x56112f062118 <unknown>
+#2 0x56112f0420d8 <unknown>
+#3 0x56112f0b951b <unknown>
+#4 0x56112f0c8915 <unknown>
+#5 0x56112f0b5e63 <unknown>
+#6 0x56112f08b82a <unknown>
+#7 0x56112f08c985 <unknown>
+#8 0x56112f35c4cd <unknown>
+#9 0x56112f3605ec <unknown>
+#10 0x56112f34671e <unknown>
+#11 0x56112f361238 <unknown>
+#12 0x56112f33b870 <unknown>
+#13 0x56112f37d608 <unknown>
+#14 0x56112f37d788 <unknown>
+#15 0x56112f397f1d <unknown>
+#16 0x7fd8eea94b43 <unknown>
+
+06/21/2022 08:32:55::ERROR::instabot.py::51 - Erro inesperado ao tentar logar. Usuários:emilson.snMessage: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x55bf58d49f33 <unknown>
+#1 0x55bf58a94118 <unknown>
+#2 0x55bf58a740d8 <unknown>
+#3 0x55bf58aeb51b <unknown>
+#4 0x55bf58afa915 <unknown>
+#5 0x55bf58ae7e63 <unknown>
+#6 0x55bf58abd82a <unknown>
+#7 0x55bf58abe985 <unknown>
+#8 0x55bf58d8e4cd <unknown>
+#9 0x55bf58d925ec <unknown>
+#10 0x55bf58d7871e <unknown>
+#11 0x55bf58d93238 <unknown>
+#12 0x55bf58d6d870 <unknown>
+#13 0x55bf58daf608 <unknown>
+#14 0x55bf58daf788 <unknown>
+#15 0x55bf58dc9f1d <unknown>
+#16 0x7febe0aa8b43 <unknown>
+
+06/21/2022 08:33:11::INFO::instabot.py::49 - Login efetuado corretamente. Usuário:emilson.sn
+06/21/2022 08:33:11::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/21/2022 08:34:21::WARNING::instabot.py::47 - Não foi possível efetuar o login corretamente. Usuário:emilson.sn
+06/21/2022 08:35:07::INFO::instabot.py::49 - Login efetuado corretamente. Usuário:emilson.sn
+06/21/2022 08:35:07::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/21/2022 08:38:38::INFO::instabot.py::33 - Entrando em espera... 2.0 minutos
+06/21/2022 08:39:37::INFO::instabot.py::49 - Login efetuado corretamente. Usuário:emilson.sn
+06/21/2022 08:39:37::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/21/2022 08:43:42::WARNING::perfis.py::28 - Conta não econtrada na base de daods. Tente novamente.
+06/21/2022 08:44:45::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/21/2022 08:45:11::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/21/2022 08:49:34::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/21/2022 08:50:37::INFO::perfis.py::35 - Base de perfis carregada com sucesso.
+06/21/2022 08:51:28::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/21/2022 08:51:47::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/21/2022 08:52:02::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/21/2022 08:52:28::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/21/2022 08:52:43::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/21/2022 09:18:52::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/21/2022 09:25:31::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/21/2022 09:25:57::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/21/2022 09:30:49::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/21/2022 09:31:27::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/21/2022 09:31:35::INFO::instabot.py::50 - Login efetuado corretamente. Usuário:emilson.sn
+06/21/2022 09:32:01::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/21/2022 09:32:13::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/21/2022 09:32:38::WARNING::instabot.py::48 - Não foi possível efetuar o login corretamente. Usuário:emilson.sn
+06/21/2022 09:34:33::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/21/2022 09:34:39::INFO::instabot.py::50 - Login efetuado corretamente. Usuário:emilson.sn
+06/21/2022 09:35:33::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/21/2022 09:35:39::INFO::instabot.py::50 - Login efetuado corretamente. Usuário:emilson.sn
+06/21/2022 09:37:16::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/21/2022 09:37:23::INFO::instabot.py::50 - Login efetuado corretamente. Usuário:emilson.sn
+06/21/2022 09:38:11::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/21/2022 09:38:14::ERROR::instabot.py::52 - Erro inesperado ao tentar logar. Usuários:emilson.snMessage: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x55cae5ebff33 <unknown>
+#1 0x55cae5c0a118 <unknown>
+#2 0x55cae5bf5ff5 <unknown>
+#3 0x55cae5bf5a55 <unknown>
+#4 0x55cae5bf4f15 <unknown>
+#5 0x55cae5bf3c0f <unknown>
+#6 0x55cae5bf419c <unknown>
+#7 0x55cae5bf40f4 <unknown>
+#8 0x55cae5bfb152 <unknown>
+#9 0x55cae5bfb541 <unknown>
+#10 0x55cae5bf564f <unknown>
+#11 0x55cae5bf5cf4 <unknown>
+#12 0x55cae5bf5a55 <unknown>
+#13 0x55cae5bf4f15 <unknown>
+#14 0x55cae5bf3c0f <unknown>
+#15 0x55cae5bf419c <unknown>
+#16 0x55cae5c03ba5 <unknown>
+#17 0x55cae5bf57a6 <unknown>
+#18 0x55cae5bf66bb <unknown>
+#19 0x55cae5bf5a72 <unknown>
+#20 0x55cae5bf4f15 <unknown>
+#21 0x55cae5bf3c0f <unknown>
+#22 0x55cae5bf4042 <unknown>
+#23 0x55cae5c0bb92 <unknown>
+#24 0x55cae5c71a3f <unknown>
+#25 0x55cae5c5df72 <unknown>
+#26 0x55cae5c712e4 <unknown>
+#27 0x55cae5c5de63 <unknown>
+#28 0x55cae5c3382a <unknown>
+#29 0x55cae5c34985 <unknown>
+#30 0x55cae5f044cd <unknown>
+#31 0x55cae5f085ec <unknown>
+#32 0x55cae5eee71e <unknown>
+#33 0x55cae5f09238 <unknown>
+#34 0x55cae5ee3870 <unknown>
+#35 0x55cae5f25608 <unknown>
+#36 0x55cae5f25788 <unknown>
+#37 0x55cae5f3ff1d <unknown>
+#38 0x7f4a21b14b43 <unknown>
+
+06/21/2022 09:38:27::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/21/2022 09:38:34::INFO::instabot.py::50 - Login efetuado corretamente. Usuário:emilson.sn
+06/21/2022 09:45:46::INFO::instabot.py::50 - Login efetuado corretamente. Usuário:emilson.sn
+06/21/2022 09:45:46::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/21/2022 09:46:25::ERROR::instabot.py::52 - Erro inesperado ao tentar logar. Usuários:emilson.snMessage: no such window: window was already closed
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x5584f9981f33 <unknown>
+#1 0x5584f96cc118 <unknown>
+#2 0x5584f96bb754 <unknown>
+#3 0x5584f96bcb12 <unknown>
+#4 0x5584f96b4f16 <unknown>
+#5 0x5584f96cd522 <unknown>
+#6 0x5584f9732961 <unknown>
+#7 0x5584f971fe63 <unknown>
+#8 0x5584f96f582a <unknown>
+#9 0x5584f96f6985 <unknown>
+#10 0x5584f99c64cd <unknown>
+#11 0x5584f99ca5ec <unknown>
+#12 0x5584f99b071e <unknown>
+#13 0x5584f99cb238 <unknown>
+#14 0x5584f99a5870 <unknown>
+#15 0x5584f99e7608 <unknown>
+#16 0x5584f99e7788 <unknown>
+#17 0x5584f9a01f1d <unknown>
+#18 0x7f92b2a1fb43 <unknown>
+
+06/21/2022 09:46:46::ERROR::instabot.py::52 - Erro inesperado ao tentar logar. Usuários:emilson.snMessage: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x56379ccd5f33 <unknown>
+#1 0x56379ca1ffaf <unknown>
+#2 0x56379ca0e2e4 <unknown>
+#3 0x56379ca0f3f9 <unknown>
+#4 0x56379ca10b12 <unknown>
+#5 0x56379ca08f16 <unknown>
+#6 0x56379ca21522 <unknown>
+#7 0x56379ca86961 <unknown>
+#8 0x56379ca73e63 <unknown>
+#9 0x56379ca4982a <unknown>
+#10 0x56379ca4a985 <unknown>
+#11 0x56379cd1a4cd <unknown>
+#12 0x56379cd1e5ec <unknown>
+#13 0x56379cd0471e <unknown>
+#14 0x56379cd1f238 <unknown>
+#15 0x56379ccf9870 <unknown>
+#16 0x56379cd3b608 <unknown>
+#17 0x56379cd3b788 <unknown>
+#18 0x56379cd55f1d <unknown>
+#19 0x7f25ad509b43 <unknown>
+
+06/21/2022 09:47:05::INFO::instabot.py::50 - Login efetuado corretamente. Usuário:emilson.sn
+06/21/2022 09:47:05::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/21/2022 09:47:50::INFO::instabot.py::50 - Login efetuado corretamente. Usuário:emilson.sn
+06/21/2022 09:47:51::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/21/2022 09:48:44::ERROR::instabot.py::52 - Erro inesperado ao tentar logar. Usuários:emilson.snMessage: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x55d158cf0f33 <unknown>
+#1 0x55d158a3b118 <unknown>
+#2 0x55d158a1b0d8 <unknown>
+#3 0x55d158a9251b <unknown>
+#4 0x55d158aa1915 <unknown>
+#5 0x55d158a8ee63 <unknown>
+#6 0x55d158a6482a <unknown>
+#7 0x55d158a65985 <unknown>
+#8 0x55d158d354cd <unknown>
+#9 0x55d158d395ec <unknown>
+#10 0x55d158d1f71e <unknown>
+#11 0x55d158d3a238 <unknown>
+#12 0x55d158d14870 <unknown>
+#13 0x55d158d56608 <unknown>
+#14 0x55d158d56788 <unknown>
+#15 0x55d158d70f1d <unknown>
+#16 0x7fcc5c8beb43 <unknown>
+
+06/21/2022 09:49:17::ERROR::instabot.py::52 - Erro inesperado ao tentar logar. Usuários:emilson.snMessage: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x555e437fff33 <unknown>
+#1 0x555e43549faf <unknown>
+#2 0x555e435382e4 <unknown>
+#3 0x555e43538cf2 <unknown>
+#4 0x555e4353ab12 <unknown>
+#5 0x555e43532f16 <unknown>
+#6 0x555e4354b522 <unknown>
+#7 0x555e435b0961 <unknown>
+#8 0x555e4359de63 <unknown>
+#9 0x555e4357382a <unknown>
+#10 0x555e43574985 <unknown>
+#11 0x555e438444cd <unknown>
+#12 0x555e438485ec <unknown>
+#13 0x555e4382e71e <unknown>
+#14 0x555e43849238 <unknown>
+#15 0x555e43823870 <unknown>
+#16 0x555e43865608 <unknown>
+#17 0x555e43865788 <unknown>
+#18 0x555e4387ff1d <unknown>
+#19 0x7f257177eb43 <unknown>
+
+06/21/2022 09:49:39::INFO::instabot.py::50 - Login efetuado corretamente. Usuário:emilson.sn
+06/21/2022 09:49:40::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/21/2022 09:49:52::INFO::instabot.py::69 - Entrando em espera... 2.0 minutos
+06/21/2022 09:59:41::ERROR::instabot.py::53 - Erro inesperado ao tentar logar. Usuários:emilson.snMessage: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x5625d8cd3f33 <unknown>
+#1 0x5625d8a1dfaf <unknown>
+#2 0x5625d8a0c2e4 <unknown>
+#3 0x5625d8a0ccf2 <unknown>
+#4 0x5625d8a0eb12 <unknown>
+#5 0x5625d8a06f16 <unknown>
+#6 0x5625d8a1f522 <unknown>
+#7 0x5625d8a84961 <unknown>
+#8 0x5625d8a71e63 <unknown>
+#9 0x5625d8a4782a <unknown>
+#10 0x5625d8a48985 <unknown>
+#11 0x5625d8d184cd <unknown>
+#12 0x5625d8d1c5ec <unknown>
+#13 0x5625d8d0271e <unknown>
+#14 0x5625d8d1d238 <unknown>
+#15 0x5625d8cf7870 <unknown>
+#16 0x5625d8d39608 <unknown>
+#17 0x5625d8d39788 <unknown>
+#18 0x5625d8d53f1d <unknown>
+#19 0x7f0345594b43 <unknown>
+
+06/21/2022 09:59:57::INFO::instabot.py::51 - Login efetuado corretamente. Usuário:emilson.sn
+06/21/2022 09:59:57::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/21/2022 10:00:10::INFO::perfis.py::33 - Base de perfis carregada com sucesso.
+06/21/2022 03:48:22::ERROR::perfis.py::46 - Erro ao atualizar perfil na base de dados. :Weiwei1.0:
+06/21/2022 03:59:35::ERROR::instabot.py::55 - Erro inesperado ao tentar logar. Usuários:emilson.snMessage: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x558c7c365f33 <unknown>
+#1 0x558c7c0affaf <unknown>
+#2 0x558c7c09e2e4 <unknown>
+#3 0x558c7c09ecf2 <unknown>
+#4 0x558c7c0a0b12 <unknown>
+#5 0x558c7c098f16 <unknown>
+#6 0x558c7c0b1522 <unknown>
+#7 0x558c7c116961 <unknown>
+#8 0x558c7c103e63 <unknown>
+#9 0x558c7c0d982a <unknown>
+#10 0x558c7c0da985 <unknown>
+#11 0x558c7c3aa4cd <unknown>
+#12 0x558c7c3ae5ec <unknown>
+#13 0x558c7c39471e <unknown>
+#14 0x558c7c3af238 <unknown>
+#15 0x558c7c389870 <unknown>
+#16 0x558c7c3cb608 <unknown>
+#17 0x558c7c3cb788 <unknown>
+#18 0x558c7c3e5f1d <unknown>
+#19 0x7fdc47446b43 <unknown>
+
+06/21/2022 04:00:44::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:00:44::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:00:55::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:00:55::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:01:07::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:01:07::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:08::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:08::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:38::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:38::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:38::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:38::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:38::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:38::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:38::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:38::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:38::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:38::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:38::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:38::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:38::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:38::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:38::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:38::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:38::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:38::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:38::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:38::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:38::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:38::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:38::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:38::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:38::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:38::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:38::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:38::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:38::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:38::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:38::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:38::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:38::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:38::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:38::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:38::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:39::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:39::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:39::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:39::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:39::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:39::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:39::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:39::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:39::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:39::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:39::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:39::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:39::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:39::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:39::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:39::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:39::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:39::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:39::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:39::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:39::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:39::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:39::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:39::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:39::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:39::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:39::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:39::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:39::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:39::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:39::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:39::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:39::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:39::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:39::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:39::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:39::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:39::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:39::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:39::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:40::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:40::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:40::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:40::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:40::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:40::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:40::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:40::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:40::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:40::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:40::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:40::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:40::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:40::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:40::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:40::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:40::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:40::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:40::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:40::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:40::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:40::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:40::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:40::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:40::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:40::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:40::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:40::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:40::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:40::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:40::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:40::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:40::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:40::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:40::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:40::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:40::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:40::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:41::CRITICAL::instabot.py::96 - Problema inesperado na execução do script.name 'selaf' is not defined
+06/21/2022 04:02:41::INFO::instabot.py::97 - Reiniciando sistema...
+06/21/2022 04:02:50::WARNING::perfis.py::26 - Conta não econtrada na base de daods. Tente novamente.
+06/21/2022 04:03:11::ERROR::instabot.py::55 - Erro inesperado ao tentar logar. Usuários:emilson.snMessage: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x559d672fff33 <unknown>
+#1 0x559d67049faf <unknown>
+#2 0x559d670382e4 <unknown>
+#3 0x559d67038cf2 <unknown>
+#4 0x559d6703ab12 <unknown>
+#5 0x559d67032f16 <unknown>
+#6 0x559d6704b522 <unknown>
+#7 0x559d670b0961 <unknown>
+#8 0x559d6709de63 <unknown>
+#9 0x559d6707382a <unknown>
+#10 0x559d67074985 <unknown>
+#11 0x559d673444cd <unknown>
+#12 0x559d673485ec <unknown>
+#13 0x559d6732e71e <unknown>
+#14 0x559d67349238 <unknown>
+#15 0x559d67323870 <unknown>
+#16 0x559d67365608 <unknown>
+#17 0x559d67365788 <unknown>
+#18 0x559d6737ff1d <unknown>
+#19 0x7f88d46d6b43 <unknown>
+
+06/21/2022 04:04:30::WARNING::instabot.py::49 - Autenticação demorando muito...
+06/21/2022 04:04:36::WARNING::instabot.py::51 - Não foi possível efetuar o login corretamente. Usuário:emilson.sn

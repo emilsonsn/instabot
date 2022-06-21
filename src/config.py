@@ -8,7 +8,7 @@ class Config:
     def get_conf():
         with open('config.json', 'r') as config:
             config = json.load(config)
-            TEMPO_ESPERA_MIN = config['tempo_de_espera']*1000
+            TEMPO_ESPERA_MIN = config['tempo_de_espera']*60
             MENSAGEM1 = config['mensagens']['mensagem1']
             MENSAGEM2 = config['mensagens']['mensagem2']
             MENSAGEM3 = config['mensagens']['mensagem3']

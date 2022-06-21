@@ -12,7 +12,7 @@ logging.basicConfig(
 
 class Perfis:
     @staticmethod    
-    def get_users(_conta):
+    def get_perfis(_conta):
         try:
             contas_base = pd.read_excel('./datebase/contas.xlsx')
             for indice, conta in enumerate(contas_base['Contas']):
@@ -21,20 +21,29 @@ class Perfis:
                     fim = contas_base['Fim'][indice]-1
                     inicio = 0 if indice == 0 else contas_base['Fim'][indice-1]
                     conta_encontrada = True
-                    print(inicio)
-                    print(fim)
                     break
             if (conta_encontrada==False):
                 logging.warning('Conta não econtrada na base de daods. Tente novamente.')
                 exit()
-            users_base = pd.read_excel('./datebase/perfis.xlsx')
-            users_with_1 = []
-            for indice, user in enumerate(users_base['Enviados']):
+            perfis_base = pd.read_excel('./datebase/perfis.xlsx')
+            perfis_with_1 = []
+            for indice, user in enumerate(perfis_base['Enviados']):
                 if user == 1 and (indice <= fim and indice >= inicio):
-                    users_with_1.append(users_base['Perfis'][indice])
+                    perfis_with_1.append([indice,perfis_base['Perfis'][indice]])
             logging.info('Base de perfis carregada com sucesso.')
-            print(users_with_1)
-            return users_with_1
+            return perfis_with_1
         except Exception as err:
             logging.error('Não foi possível carregar base de dados :: '+str(err))
             exit()
+
+    @staticmethod    
+    def set_perfil(indice):
+            try:
+                perfis_base = pd.read_excel('./datebase/perfis.xlsx')
+                perfis_base.loc[indice, "Enviados"] = 1
+                perfis_base.to_excel("./datebase/perfis.xlsx",index=False)
+                logging.info('Perfil atualizado. :'+perfis_base['Perfis'][indice]+':')
+            except Exception as err:
+                logging.error('Erro ao atualizar perfil na base de dados. :'+perfis_base['Perfis'][indice]+':'+str(err))
+
+
