@@ -1,8 +1,8 @@
 {
     "mensagens": {
-        "mensagem1" : "Olá, você já conhece o automatizador de bots do Emilson?",
-        "mensagem2" : "Mensagem enviada por bot, ignore. 1" ,
-        "mensagem3" : "Mensagem enviada por bot, ignore. 2" 
+        "mensagem1" : "Mensagem 1",
+        "mensagem2" : "Mensagem 2" ,
+        "mensagem3" : "Mensagem 3" 
     },
-    "tempo_de_espera": 10
+    "tempo_de_espera": 1
 }

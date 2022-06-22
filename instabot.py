@@ -25,7 +25,7 @@ class instabot:
         self.TEMPO_ESPERA = Config.get_conf()['tempo_espera']
         self.USERNAME = input('Digite o username da conta: ')
         self.PASSWORD = input('Digite a senha da conta: ')
-        self.browser = webdriver.Chrome('chromedriver', options=Options.get_options())
+        self.browser = webdriver.Chrome('./chromedriver', options=Options.get_options())
         self.INDICE_PERFIL = 0
         self.logar()
     def logar(self):
@@ -59,10 +59,7 @@ class instabot:
                 self.browser.get('https://instagram.com/'+perfil[1])
                 break
         else:
-            print("entrou aqui")
-            print(perfis)
-            logging.warning("Não existe perfis pendentes para essa conta. Planilha necessita de atualização"+self.USERNAME)
-            logging.info("Bot entrando em modo de aguardo. 10 minutos")
+            logging.warning("Não existe perfis pendentes para a conta. Planilha necessita de atualização para a conta: "+self.USERNAME)
             self.sleep_for_time(10*60)
             self.main()
 
@@ -70,7 +67,7 @@ class instabot:
         return self.MESSAGES[random.randint(0,2)]
 
     def sleep_for_time(self,minutos):
-        logging.info("Entrando em espera... "+str(self.TEMPO_ESPERA/60)+" minutos")
+        logging.info("Entrando em espera... "+str(minutos/60)+" min")
         time.sleep(int(minutos))
 
     def send_message(self,message):
@@ -88,6 +85,7 @@ class instabot:
             time.sleep(2)
         self.browser.find_element(By.CSS_SELECTOR, 'textarea').send_keys(message)
         self.browser.find_element(By.CSS_SELECTOR, 'textarea').send_keys(Keys.ENTER)
+        logging.info("Mensagem enviada com sucesso!")
         Perfis.set_perfil(self.INDICE_PERFIL)
         Contas.set_count(self.USERNAME)
         time.sleep(1)

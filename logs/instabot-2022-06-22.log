@@ -1,0 +1,168 @@
+06/22/2022 09:26:17::ERROR::instabot.py::50 - Erro inesperado ao tentar logar. Usuários:emilson.snMessage: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x5640d22ccf33 <unknown>
+#1 0x5640d2017118 <unknown>
+#2 0x5640d1ff70d8 <unknown>
+#3 0x5640d206e51b <unknown>
+#4 0x5640d207d915 <unknown>
+#5 0x5640d206ae63 <unknown>
+#6 0x5640d204082a <unknown>
+#7 0x5640d2041985 <unknown>
+#8 0x5640d23114cd <unknown>
+#9 0x5640d23155ec <unknown>
+#10 0x5640d22fb71e <unknown>
+#11 0x5640d2316238 <unknown>
+#12 0x5640d22f0870 <unknown>
+#13 0x5640d2332608 <unknown>
+#14 0x5640d2332788 <unknown>
+#15 0x5640d234cf1d <unknown>
+#16 0x7f385e57db43 <unknown>
+
+06/22/2022 09:52:37::WARNING::instabot.py::43 - Autenticação demorando muito...
+06/22/2022 09:52:42::ERROR::instabot.py::50 - Erro inesperado ao tentar logar. Usuários:emilsonsn2018Message: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x5648d3ecff33 <unknown>
+#1 0x5648d3c19faf <unknown>
+#2 0x5648d3c082e4 <unknown>
+#3 0x5648d3c08cf2 <unknown>
+#4 0x5648d3c0ab12 <unknown>
+#5 0x5648d3c02f16 <unknown>
+#6 0x5648d3c1b522 <unknown>
+#7 0x5648d3c80961 <unknown>
+#8 0x5648d3c6de63 <unknown>
+#9 0x5648d3c4382a <unknown>
+#10 0x5648d3c44985 <unknown>
+#11 0x5648d3f144cd <unknown>
+#12 0x5648d3f185ec <unknown>
+#13 0x5648d3efe71e <unknown>
+#14 0x5648d3f19238 <unknown>
+#15 0x5648d3ef3870 <unknown>
+#16 0x5648d3f35608 <unknown>
+#17 0x5648d3f35788 <unknown>
+#18 0x5648d3f4ff1d <unknown>
+#19 0x7fb1c4e58b43 <unknown>
+
+06/22/2022 09:54:45::INFO::instabot.py::48 - Login efetuado corretamente. Usuário:emilsonsn2018
+06/22/2022 09:54:46::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 09:54:55::INFO::perfis.py::38 - Perfil atualizado. :ca1o_henr1que:
+06/22/2022 09:54:55::INFO::contas.py::16 - Contador atualizado.
+06/22/2022 09:54:56::INFO::instabot.py::73 - Entrando em espera... 60.0 minutos
+06/22/2022 09:55:54::INFO::instabot.py::48 - Login efetuado corretamente. Usuário:danielaximenes233
+06/22/2022 09:55:54::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 09:56:07::INFO::perfis.py::38 - Perfil atualizado. :ca1o_henr1que:
+06/22/2022 09:56:07::WARNING::contas.py::18 - Não foi possível atualizar planilha de contas.
+06/22/2022 09:56:08::INFO::instabot.py::73 - Entrando em espera... 60.0 minutos
+06/22/2022 09:56:49::WARNING::instabot.py::43 - Autenticação demorando muito...
+06/22/2022 09:56:55::WARNING::instabot.py::45 - Não foi possível efetuar o login corretamente. Usuário:_cadeapalheta
+06/22/2022 09:58:58::WARNING::instabot.py::43 - Autenticação demorando muito...
+06/22/2022 09:59:05::WARNING::instabot.py::45 - Não foi possível efetuar o login corretamente. Usuário:weiwei1.0
+06/22/2022 09:59:53::WARNING::instabot.py::43 - Autenticação demorando muito...
+06/22/2022 09:59:59::WARNING::instabot.py::45 - Não foi possível efetuar o login corretamente. Usuário:weiwei1.0
+06/22/2022 10:00:57::INFO::instabot.py::48 - Login efetuado corretamente. Usuário:emilson.sn
+06/22/2022 10:00:57::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 10:01:06::INFO::perfis.py::38 - Perfil atualizado. :ca1o_henr1que:
+06/22/2022 10:01:06::WARNING::contas.py::18 - Não foi possível atualizar planilha de contas.
+06/22/2022 10:01:07::INFO::instabot.py::73 - Entrando em espera... 60.0 minutos
+06/22/2022 10:54:56::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 10:55:06::INFO::perfis.py::38 - Perfil atualizado. :whinderssonnunes:
+06/22/2022 10:55:06::INFO::contas.py::16 - Contador atualizado.
+06/22/2022 10:55:07::INFO::instabot.py::73 - Entrando em espera... 60.0 minutos
+06/22/2022 10:56:08::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 10:56:20::INFO::perfis.py::38 - Perfil atualizado. :whinderssonnunes:
+06/22/2022 10:56:20::WARNING::contas.py::18 - Não foi possível atualizar planilha de contas.
+06/22/2022 10:56:21::INFO::instabot.py::73 - Entrando em espera... 60.0 minutos
+06/22/2022 11:01:07::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 11:01:16::INFO::perfis.py::38 - Perfil atualizado. :whinderssonnunes:
+06/22/2022 11:01:16::WARNING::contas.py::18 - Não foi possível atualizar planilha de contas.
+06/22/2022 11:01:17::INFO::instabot.py::73 - Entrando em espera... 60.0 minutos
+06/22/2022 11:55:07::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 11:55:19::INFO::perfis.py::38 - Perfil atualizado. :euteto:
+06/22/2022 11:55:19::INFO::contas.py::16 - Contador atualizado.
+06/22/2022 11:55:20::INFO::instabot.py::73 - Entrando em espera... 60.0 minutos
+06/22/2022 11:56:21::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 11:56:32::INFO::perfis.py::38 - Perfil atualizado. :euteto:
+06/22/2022 11:56:32::WARNING::contas.py::18 - Não foi possível atualizar planilha de contas.
+06/22/2022 11:56:33::INFO::instabot.py::73 - Entrando em espera... 60.0 minutos
+06/22/2022 12:01:17::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 12:01:30::INFO::perfis.py::38 - Perfil atualizado. :euteto:
+06/22/2022 12:01:31::WARNING::contas.py::18 - Não foi possível atualizar planilha de contas.
+06/22/2022 12:01:32::INFO::instabot.py::73 - Entrando em espera... 60.0 minutos
+06/22/2022 12:55:20::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 12:55:31::INFO::perfis.py::38 - Perfil atualizado. :eliana:
+06/22/2022 12:55:31::INFO::contas.py::16 - Contador atualizado.
+06/22/2022 12:55:32::INFO::instabot.py::73 - Entrando em espera... 60.0 minutos
+06/22/2022 12:56:33::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 12:56:44::INFO::perfis.py::38 - Perfil atualizado. :eliana:
+06/22/2022 12:56:44::WARNING::contas.py::18 - Não foi possível atualizar planilha de contas.
+06/22/2022 12:56:45::INFO::instabot.py::73 - Entrando em espera... 60.0 minutos
+06/22/2022 01:01:32::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 01:01:43::INFO::perfis.py::38 - Perfil atualizado. :eliana:
+06/22/2022 01:01:43::WARNING::contas.py::18 - Não foi possível atualizar planilha de contas.
+06/22/2022 01:01:44::INFO::instabot.py::73 - Entrando em espera... 60.0 minutos
+06/22/2022 01:55:32::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 01:55:42::INFO::perfis.py::38 - Perfil atualizado. :matue30:
+06/22/2022 01:55:42::INFO::contas.py::16 - Contador atualizado.
+06/22/2022 01:55:43::INFO::instabot.py::73 - Entrando em espera... 60.0 minutos
+06/22/2022 01:56:45::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 01:56:56::INFO::perfis.py::38 - Perfil atualizado. :matue30:
+06/22/2022 01:56:56::WARNING::contas.py::18 - Não foi possível atualizar planilha de contas.
+06/22/2022 01:56:57::INFO::instabot.py::73 - Entrando em espera... 60.0 minutos
+06/22/2022 02:01:44::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 02:01:55::INFO::perfis.py::38 - Perfil atualizado. :matue30:
+06/22/2022 02:01:55::WARNING::contas.py::18 - Não foi possível atualizar planilha de contas.
+06/22/2022 02:01:56::INFO::instabot.py::73 - Entrando em espera... 60.0 minutos
+06/22/2022 02:55:43::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 02:55:43::WARNING::instabot.py::64 - Não existe perfis pendentes para essa conta. Planilha necessita de atualizaçãoemilsonsn2018
+06/22/2022 02:55:43::INFO::instabot.py::65 - Bot entrando em modo de aguardo. 10 minutos
+06/22/2022 02:55:43::INFO::instabot.py::73 - Entrando em espera... 60.0 minutos
+06/22/2022 02:56:57::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 02:56:57::WARNING::instabot.py::64 - Não existe perfis pendentes para essa conta. Planilha necessita de atualizaçãodanielaximenes233
+06/22/2022 02:56:57::INFO::instabot.py::65 - Bot entrando em modo de aguardo. 10 minutos
+06/22/2022 02:56:57::INFO::instabot.py::73 - Entrando em espera... 60.0 minutos
+06/22/2022 03:01:56::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 03:01:56::WARNING::instabot.py::64 - Não existe perfis pendentes para essa conta. Planilha necessita de atualizaçãoemilson.sn
+06/22/2022 03:01:56::INFO::instabot.py::65 - Bot entrando em modo de aguardo. 10 minutos
+06/22/2022 03:01:56::INFO::instabot.py::73 - Entrando em espera... 60.0 minutos
+06/22/2022 03:02:04::INFO::instabot.py::48 - Login efetuado corretamente. Usuário:emilson.sn
+06/22/2022 03:02:04::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 03:02:04::WARNING::instabot.py::62 - Não existe perfis pendentes para essa conta. Planilha necessita de atualizaçãoemilson.sn
+06/22/2022 03:02:04::INFO::instabot.py::70 - Entrando em espera... 10.0 min
+06/22/2022 03:05:43::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 03:05:43::WARNING::instabot.py::64 - Não existe perfis pendentes para essa conta. Planilha necessita de atualizaçãoemilsonsn2018
+06/22/2022 03:05:43::INFO::instabot.py::65 - Bot entrando em modo de aguardo. 10 minutos
+06/22/2022 03:05:43::INFO::instabot.py::73 - Entrando em espera... 60.0 minutos
+06/22/2022 03:06:58::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 03:06:58::WARNING::instabot.py::64 - Não existe perfis pendentes para essa conta. Planilha necessita de atualizaçãodanielaximenes233
+06/22/2022 03:06:58::INFO::instabot.py::65 - Bot entrando em modo de aguardo. 10 minutos
+06/22/2022 03:06:58::INFO::instabot.py::73 - Entrando em espera... 60.0 minutos
+06/22/2022 03:11:56::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 03:11:56::WARNING::instabot.py::64 - Não existe perfis pendentes para essa conta. Planilha necessita de atualizaçãoemilson.sn
+06/22/2022 03:11:56::INFO::instabot.py::65 - Bot entrando em modo de aguardo. 10 minutos
+06/22/2022 03:11:56::INFO::instabot.py::73 - Entrando em espera... 60.0 minutos
+06/22/2022 03:15:43::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 03:15:43::WARNING::instabot.py::64 - Não existe perfis pendentes para essa conta. Planilha necessita de atualizaçãoemilsonsn2018
+06/22/2022 03:15:43::INFO::instabot.py::65 - Bot entrando em modo de aguardo. 10 minutos
+06/22/2022 03:15:43::INFO::instabot.py::73 - Entrando em espera... 60.0 minutos
+06/22/2022 03:16:58::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 03:16:58::WARNING::instabot.py::64 - Não existe perfis pendentes para essa conta. Planilha necessita de atualizaçãodanielaximenes233
+06/22/2022 03:16:58::INFO::instabot.py::65 - Bot entrando em modo de aguardo. 10 minutos
+06/22/2022 03:16:58::INFO::instabot.py::73 - Entrando em espera... 60.0 minutos
+06/22/2022 03:21:56::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 03:21:56::WARNING::instabot.py::64 - Não existe perfis pendentes para essa conta. Planilha necessita de atualizaçãoemilson.sn
+06/22/2022 03:21:56::INFO::instabot.py::65 - Bot entrando em modo de aguardo. 10 minutos
+06/22/2022 03:21:56::INFO::instabot.py::73 - Entrando em espera... 60.0 minutos
+06/22/2022 03:25:00::INFO::instabot.py::48 - Login efetuado corretamente. Usuário:danielaximenes233
+06/22/2022 03:25:01::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 03:25:10::INFO::instabot.py::88 - Mensagem enviada com sucesso!
+06/22/2022 03:25:10::INFO::perfis.py::38 - Perfil atualizado. :ca1o_henr1que:
+06/22/2022 03:25:10::INFO::contas.py::16 - Contador atualizado.
+06/22/2022 03:25:11::INFO::instabot.py::70 - Entrando em espera... 1.0 min
+06/22/2022 03:25:21::INFO::instabot.py::48 - Login efetuado corretamente. Usuário:emilsonsn2018
+06/22/2022 03:25:21::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 03:25:31::INFO::instabot.py::88 - Mensagem enviada com sucesso!
+06/22/2022 03:25:31::INFO::perfis.py::38 - Perfil atualizado. :ca1o_henr1que:
+06/22/2022 03:25:31::INFO::contas.py::16 - Contador atualizado.
+06/22/2022 03:25:32::INFO::instabot.py::70 - Entrando em espera... 1.0 min
