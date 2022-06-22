@@ -12,8 +12,10 @@ import random
 from src.contas import Contas
 from src.log_config import LogConfig
 from src.telegrambot import BotTelegram
+from selenium.webdriver.chrome.service import Service
 
 logging = LogConfig.get_logging()
+service = Service('./chromedriver')
 
 class instabot:
     def __init__(self):       
@@ -25,7 +27,7 @@ class instabot:
         self.TEMPO_ESPERA = Config.get_conf()['tempo_espera']
         self.USERNAME = input('Digite o username da conta: ')
         self.PASSWORD = input('Digite a senha da conta: ')
-        self.browser = webdriver.Chrome('./chromedriver', options=Options.get_options())
+        self.browser = webdriver.Chrome(service=service, options=Options.get_options())
         self.INDICE_PERFIL = 0
         self.logar()
     def logar(self):
@@ -64,7 +66,7 @@ class instabot:
             self.main()
 
     def random_message(self):
-        return self.MESSAGES[random.randint(0,2)]
+        return self.MESSAGES[random.randint(0,len(self.MESSAGES)-1)]
 
     def sleep_for_time(self,minutos):
         logging.info("Entrando em espera... "+str(minutos/60)+" min")

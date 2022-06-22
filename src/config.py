@@ -30,5 +30,16 @@ class Options:
         options.add_experimental_option("excludeSwitches", ["enable-automation"])
         options.add_argument("disable-infobars")
         return options
+    
+class Telegram:
+    @staticmethod
+    def get_telegram():
+        with open('config.json', 'r') as config:
+            config = json.load(config)
+            id = config['my_id_telegram']
+            return {
+                "chave_api_telegram": config['chave_api_telegram'],
+                "my_id_telegram": config['my_id_telegram']
+            }
+
  
-con = Config.get_conf()

@@ -166,3 +166,93 @@ Stacktrace:
 06/22/2022 03:25:31::INFO::perfis.py::38 - Perfil atualizado. :ca1o_henr1que:
 06/22/2022 03:25:31::INFO::contas.py::16 - Contador atualizado.
 06/22/2022 03:25:32::INFO::instabot.py::70 - Entrando em espera... 1.0 min
+06/22/2022 03:30:27::ERROR::instabot.py::50 - Erro inesperado ao tentar logar. Usuários:fcxMessage: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x55ca29001f33 <unknown>
+#1 0x55ca28d4c118 <unknown>
+#2 0x55ca28d2c0d8 <unknown>
+#3 0x55ca28da351b <unknown>
+#4 0x55ca28db2915 <unknown>
+#5 0x55ca28d9fe63 <unknown>
+#6 0x55ca28d7582a <unknown>
+#7 0x55ca28d76985 <unknown>
+#8 0x55ca290464cd <unknown>
+#9 0x55ca2904a5ec <unknown>
+#10 0x55ca2903071e <unknown>
+#11 0x55ca2904b238 <unknown>
+#12 0x55ca29025870 <unknown>
+#13 0x55ca29067608 <unknown>
+#14 0x55ca29067788 <unknown>
+#15 0x55ca29081f1d <unknown>
+#16 0x7f93b47f5b43 <unknown>
+
+06/22/2022 03:30:58::ERROR::instabot.py::50 - Erro inesperado ao tentar logar. Usuários:sdvsdMessage: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x5646c2cfef33 <unknown>
+#1 0x5646c2a48faf <unknown>
+#2 0x5646c2a372e4 <unknown>
+#3 0x5646c2a383f9 <unknown>
+#4 0x5646c2a39b12 <unknown>
+#5 0x5646c2a31f16 <unknown>
+#6 0x5646c2a4a522 <unknown>
+#7 0x5646c2aaf961 <unknown>
+#8 0x5646c2a9ce63 <unknown>
+#9 0x5646c2a7282a <unknown>
+#10 0x5646c2a73985 <unknown>
+#11 0x5646c2d434cd <unknown>
+#12 0x5646c2d475ec <unknown>
+#13 0x5646c2d2d71e <unknown>
+#14 0x5646c2d48238 <unknown>
+#15 0x5646c2d22870 <unknown>
+#16 0x5646c2d64608 <unknown>
+#17 0x5646c2d64788 <unknown>
+#18 0x5646c2d7ef1d <unknown>
+#19 0x7fc352cc4b43 <unknown>
+
+06/22/2022 03:31:12::ERROR::instabot.py::50 - Erro inesperado ao tentar logar. Usuários:adfasdMessage: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x5567249eff33 <unknown>
+#1 0x55672473a118 <unknown>
+#2 0x55672471a0d8 <unknown>
+#3 0x55672479151b <unknown>
+#4 0x5567247a0915 <unknown>
+#5 0x55672478de63 <unknown>
+#6 0x55672476382a <unknown>
+#7 0x556724764985 <unknown>
+#8 0x556724a344cd <unknown>
+#9 0x556724a385ec <unknown>
+#10 0x556724a1e71e <unknown>
+#11 0x556724a39238 <unknown>
+#12 0x556724a13870 <unknown>
+#13 0x556724a55608 <unknown>
+#14 0x556724a55788 <unknown>
+#15 0x556724a6ff1d <unknown>
+#16 0x7fd64c910b43 <unknown>
+
+06/22/2022 03:33:29::ERROR::instabot.py::53 - Erro inesperado ao tentar logar. Usuários:dsvMessage: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x55a3fb373f33 <unknown>
+#1 0x55a3fb0be118 <unknown>
+#2 0x55a3fb09e0d8 <unknown>
+#3 0x55a3fb11551b <unknown>
+#4 0x55a3fb124915 <unknown>
+#5 0x55a3fb111e63 <unknown>
+#6 0x55a3fb0e782a <unknown>
+#7 0x55a3fb0e8985 <unknown>
+#8 0x55a3fb3b84cd <unknown>
+#9 0x55a3fb3bc5ec <unknown>
+#10 0x55a3fb3a271e <unknown>
+#11 0x55a3fb3bd238 <unknown>
+#12 0x55a3fb397870 <unknown>
+#13 0x55a3fb3d9608 <unknown>
+#14 0x55a3fb3d9788 <unknown>
+#15 0x55a3fb3f3f1d <unknown>
+#16 0x7f8e62fd0b43 <unknown>
+

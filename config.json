@@ -1,8 +1,11 @@
 {
     "mensagens": {
-        "mensagem1" : "Mensagem 1",
+        "mensagem1" : "Mensagem 1" ,
         "mensagem2" : "Mensagem 2" ,
         "mensagem3" : "Mensagem 3" 
     },
-    "tempo_de_espera": 1
+    "tempo_de_espera": 1,
+
+    "chave_api_telegram": "5532192507:AAEkAhCiEPeofGjK03ApJ61LEXrp4TIhOog",
+    "my_id_telegram": 1990212496
 }
