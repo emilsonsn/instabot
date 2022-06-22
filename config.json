@@ -4,5 +4,5 @@
         "mensagem2" : "Mensagem enviada por bot, ignore. 1" ,
         "mensagem3" : "Mensagem enviada por bot, ignore. 2" 
     },
-    "tempo_de_espera": 2
+    "tempo_de_espera": 10
 }

@@ -1,14 +1,7 @@
 import pandas as pd
-import logging 
-from logging import FileHandler, StreamHandler
-from datetime import date
+from src.log_config import LogConfig
 
-logging.basicConfig(
-    level = logging.INFO, 
-    format= "%(asctime)s::%(levelname)s::%(filename)s::%(lineno)d - %(message)s",
-    datefmt='%m/%d/%Y %I:%M:%S',
-    handlers=[FileHandler("./logs/instabot-"+str(date.today())+".log", 'a'), StreamHandler()]
-)
+logging = LogConfig.get_logging()
 
 class Perfis:
     @staticmethod    
@@ -23,12 +16,12 @@ class Perfis:
                     conta_encontrada = True
                     break
             if (conta_encontrada==False):
-                logging.warning('Conta não econtrada na base de daods. Tente novamente.')
+                logging.warning('Conta não econtrada na base de dados.')
                 exit()
             perfis_base = pd.read_excel('./datebase/perfis.xlsx')
             perfis_with_1 = []
-            for indice, user in enumerate(perfis_base['Enviados']):
-                if user == 1 and (indice <= fim and indice >= inicio):
+            for indice, perfil_status in enumerate(perfis_base['Enviados']):
+                if perfil_status == 0 and (indice <= fim and indice >= inicio):
                     perfis_with_1.append([indice,perfis_base['Perfis'][indice]])
             logging.info('Base de perfis carregada com sucesso.')
             return perfis_with_1
@@ -45,5 +38,12 @@ class Perfis:
                 logging.info('Perfil atualizado. :'+perfis_base['Perfis'][indice]+':')
             except Exception as err:
                 logging.error('Erro ao atualizar perfil na base de dados. :'+perfis_base['Perfis'][indice]+':'+str(err))
-
-
+    @staticmethod  
+    def set_perfil_error(indice):
+            try:
+                perfis_base = pd.read_excel('./datebase/perfis.xlsx')
+                perfis_base.loc[indice, "Enviados"] = 3
+                perfis_base.to_excel("./datebase/perfis.xlsx",index=False)
+                logging.info('Perfil não válido. :'+perfis_base['Perfis'][indice]+': Pulando para o próximo...')
+            except Exception as err:
+                logging.error('Erro ao atualizar perfil na base de dados. :'+perfis_base['Perfis'][indice]+':'+str(err))

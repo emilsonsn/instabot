@@ -1,5 +1,4 @@
 from asyncio import sleep
-import logging
 import time
 from numpy import rint
 from src.config import Config
@@ -8,18 +7,13 @@ from gettext import find
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from src.config import Options
-from logging import FileHandler, StreamHandler
-from datetime import date
 from src.perfis import Perfis
 import random
-logging.basicConfig(
-    level = logging.INFO, 
-    format= "%(asctime)s::%(levelname)s::%(filename)s::%(lineno)d - %(message)s",
-    datefmt='%m/%d/%Y %I:%M:%S',
-    handlers=[FileHandler("./logs/instabot-"+str(date.today())+".log", 'a'), StreamHandler()]
-)
+from src.contas import Contas
+from src.log_config import LogConfig
+from src.telegrambot import BotTelegram
 
-
+logging = LogConfig.get_logging()
 
 class instabot:
     def __init__(self):       
@@ -49,11 +43,12 @@ class instabot:
                 logging.warning('Autenticação demorando muito...') if esperar%15 == 0 else ''
                 if esperar > 20:
                     logging.warning('Não foi possível efetuar o login corretamente. Usuário:'+self.USERNAME)
+                    self.browser.quit()
                     exit()
             logging.info('Login efetuado corretamente. Usuário:'+self.USERNAME)
         except Exception as err:
             logging.error('Erro inesperado ao tentar logar. Usuários:'+self.USERNAME+str(err))
-            self.browser.close()
+            self.browser.quit()
             exit()
 
     def find_profile(self):
@@ -64,40 +59,51 @@ class instabot:
                 self.browser.get('https://instagram.com/'+perfil[1])
                 break
         else:
-            logging.warning("Não existe perfis pendentes para esse perfil."+perfil[1])
-
+            print("entrou aqui")
+            print(perfis)
+            logging.warning("Não existe perfis pendentes para essa conta. Planilha necessita de atualização"+self.USERNAME)
+            logging.info("Bot entrando em modo de aguardo. 10 minutos")
+            self.sleep_for_time(10*60)
+            self.main()
 
     def random_message(self):
         return self.MESSAGES[random.randint(0,2)]
 
-    def sleep_for_time(self):
-        logging.info("Entrando em espera... "+str(self.TEMPO_ESPERA/1000)+" minutos")
-        time.sleep(int(self.TEMPO_ESPERA))
+    def sleep_for_time(self,minutos):
+        logging.info("Entrando em espera... "+str(self.TEMPO_ESPERA/60)+" minutos")
+        time.sleep(int(minutos))
 
     def send_message(self,message):
         time.sleep(5)
+        esperar = 0
         while(len(self.browser.find_elements(By.XPATH, "//*[text()='Enviar mensagem']")) < 1):
-            time.sleep(2)
+            time.sleep(1)
+            esperar+=1
+            if esperar == 25:
+                Perfis.set_perfil_error(self.INDICE_PERFIL)
+                self.main()
+
         self.browser.find_element(By.XPATH,"//*[text()='Enviar mensagem']").click()
         while (len(self.browser.find_elements(By.CSS_SELECTOR, 'textarea'))<1):
             time.sleep(2)
         self.browser.find_element(By.CSS_SELECTOR, 'textarea').send_keys(message)
         self.browser.find_element(By.CSS_SELECTOR, 'textarea').send_keys(Keys.ENTER)
         Perfis.set_perfil(self.INDICE_PERFIL)
+        Contas.set_count(self.USERNAME)
         time.sleep(1)
 
     def main(self):
         try:
             self.find_profile()
             self.send_message(self.random_message())
-            self.sleep_for_time()
+            self.sleep_for_time(self.TEMPO_ESPERA)
             self.main()
         except Exception as err:
-            logging.critical('Problema inesperado na execução do script.'+str(err))
-            logging.info("Reiniciando sistema...")
-            self.browser.quit()
-            self.browser = webdriver.Chrome('chromedriver', options=Options.get_options())
+            logging.critical('Problema inesperado na execução do script. '+str(err))
+            logging.info("Reiniciando sistema em 5 minutos...")
+            BotTelegram.send_message("Mensagem de erro interna do sistema: "+str(err))
+            self.sleep_for_time(5*60)
+            self.browser.refresh()
             self.main()
-
 bot = instabot()
 bot.main()
