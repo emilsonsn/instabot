@@ -1,10 +1,7 @@
-from asyncio import sleep
-from os import EX_CANTCREAT
 import time
 from numpy import rint
 from src.config import Config
 from selenium import webdriver
-from gettext import find
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from src.config import Options
@@ -130,6 +127,7 @@ class instabot:
             time.sleep(1)
         except Exception as err:
             logging.error(f"Erro ao tentar enviar mensagem. {str(err)} {self.USERNAME}")
+            Perfis.set_perfil_error(self.INDICE_PERFIL)
             logging.info(f"Reiniciando bot em 2 minuto.")
             self.restartBot()
                      
