@@ -1,0 +1,143 @@
+06/23/2022 06:23:55::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/23/2022 06:23:55::ERROR::instabot.py::70 - Erro ao buscar perfis para a conta:'int' object is not subscriptable emilson.sn
+06/23/2022 06:24:02::CRITICAL::instabot.py::116 - Problema inesperado na execução do script. Message: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x55c826695f33 <unknown>
+#1 0x55c8263dffaf <unknown>
+#2 0x55c8263ce2e4 <unknown>
+#3 0x55c8263cecf2 <unknown>
+#4 0x55c8263d0b12 <unknown>
+#5 0x55c8263c8f16 <unknown>
+#6 0x55c8263e1522 <unknown>
+#7 0x55c826446961 <unknown>
+#8 0x55c826433e63 <unknown>
+#9 0x55c82640982a <unknown>
+#10 0x55c82640a985 <unknown>
+#11 0x55c8266da4cd <unknown>
+#12 0x55c8266de5ec <unknown>
+#13 0x55c8266c471e <unknown>
+#14 0x55c8266df238 <unknown>
+#15 0x55c8266b9870 <unknown>
+#16 0x55c8266fb608 <unknown>
+#17 0x55c8266fb788 <unknown>
+#18 0x55c826715f1d <unknown>
+#19 0x7fd102c70b43 <unknown>
+
+06/23/2022 06:24:02::INFO::instabot.py::117 - Reiniciando sistema em 5 minutos...
+06/23/2022 08:14:17::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/23/2022 08:14:20::ERROR::instabot.py::124 - Erro ao tentar enviar mensagem. list index out of range emilson.sn
+06/23/2022 08:14:20::INFO::instabot.py::94 - Entrando em espera... 1.0 min
+06/23/2022 08:15:04::WARNING::perfis.py::19 - Conta não econtrada na base de dados.
+06/23/2022 08:15:39::ERROR::instabot.py::84 - Erro ao buscar perfis para a conta:type object 'Perfis' has no attribute 'get_peryfis' aas
+06/23/2022 08:15:41::ERROR::instabot.py::124 - Erro ao tentar enviar mensagem. list index out of range aas
+06/23/2022 08:15:41::INFO::instabot.py::94 - Entrando em espera... 1.0 min
+06/23/2022 08:16:21::ERROR::instabot.py::84 - Erro ao buscar perfis para a conta:type object 'Perfis' has no attribute 'get_peryfis' gbdx
+06/23/2022 08:16:23::ERROR::instabot.py::124 - Erro ao tentar enviar mensagem. Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=103.0.5060.53)
+Stacktrace:
+#0 0x558125182f33 <unknown>
+#1 0x558124ecd118 <unknown>
+#2 0x558124ead0d8 <unknown>
+#3 0x558124f2451b <unknown>
+#4 0x558124f33915 <unknown>
+#5 0x558124f20e63 <unknown>
+#6 0x558124ef682a <unknown>
+#7 0x558124ef7985 <unknown>
+#8 0x5581251c74cd <unknown>
+#9 0x5581251cb5ec <unknown>
+#10 0x5581251b171e <unknown>
+#11 0x5581251cc238 <unknown>
+#12 0x5581251a6870 <unknown>
+#13 0x5581251e8608 <unknown>
+#14 0x5581251e8788 <unknown>
+#15 0x558125202f1d <unknown>
+#16 0x7f25f5d0bb43 <unknown>
+ gbdx
+06/23/2022 08:16:23::INFO::instabot.py::94 - Entrando em espera... 1.0 min
+06/23/2022 08:18:11::ERROR::instabot.py::84 - Erro ao buscar perfis para a conta:type object 'Perfis' has no attribute 'get_peryfis' f
+06/23/2022 08:18:32::ERROR::instabot.py::124 - Erro ao tentar enviar mensagem. Message: chrome not reachable
+  (Session info: chrome=103.0.5060.53)
+Stacktrace:
+#0 0x56334b91ef33 <unknown>
+#1 0x56334b668faf <unknown>
+#2 0x56334b6572e4 <unknown>
+#3 0x56334b657cf2 <unknown>
+#4 0x56334b659b12 <unknown>
+#5 0x56334b651f16 <unknown>
+#6 0x56334b66a522 <unknown>
+#7 0x56334b6cf961 <unknown>
+#8 0x56334b6bce63 <unknown>
+#9 0x56334b69282a <unknown>
+#10 0x56334b693985 <unknown>
+#11 0x56334b9634cd <unknown>
+#12 0x56334b9675ec <unknown>
+#13 0x56334b94d71e <unknown>
+#14 0x56334b968238 <unknown>
+#15 0x56334b942870 <unknown>
+#16 0x56334b984608 <unknown>
+#17 0x56334b984788 <unknown>
+#18 0x56334b99ef1d <unknown>
+#19 0x7fd05eb30b43 <unknown>
+ f
+06/23/2022 08:24:54::ERROR::instabot.py::86 - Erro ao buscar perfis para a conta:type object 'Perfis' has no attribute 'get_peryfis' ds
+06/23/2022 08:24:54::INFO::instabot.py::87 - Reiniciando bot em 2 minuto.
+06/23/2022 08:24:54::INFO::instabot.py::100 - Entrando em espera... 2.0 min
+06/23/2022 08:25:22::ERROR::instabot.py::86 - Erro ao buscar perfis para a conta:type object 'Perfis' has no attribute 'get_peryfis' sdv
+06/23/2022 08:25:22::INFO::instabot.py::87 - Reiniciando bot em 2 minuto.
+06/23/2022 08:25:22::INFO::instabot.py::100 - Entrando em espera... 0.1 min
+06/23/2022 08:25:28::INFO::instabot.py::139 - Reiniciando sistema automáticamente...
+06/23/2022 08:25:29::ERROR::instabot.py::86 - Erro ao buscar perfis para a conta:type object 'Perfis' has no attribute 'get_peryfis' sdv
+06/23/2022 08:25:29::INFO::instabot.py::87 - Reiniciando bot em 2 minuto.
+06/23/2022 08:25:29::INFO::instabot.py::100 - Entrando em espera... 0.1 min
+06/23/2022 08:25:35::INFO::instabot.py::139 - Reiniciando sistema automáticamente...
+06/23/2022 08:25:36::ERROR::instabot.py::86 - Erro ao buscar perfis para a conta:type object 'Perfis' has no attribute 'get_peryfis' sdv
+06/23/2022 08:25:36::INFO::instabot.py::87 - Reiniciando bot em 2 minuto.
+06/23/2022 08:25:36::INFO::instabot.py::100 - Entrando em espera... 0.1 min
+06/23/2022 08:25:42::INFO::instabot.py::139 - Reiniciando sistema automáticamente...
+06/23/2022 08:25:43::ERROR::instabot.py::86 - Erro ao buscar perfis para a conta:type object 'Perfis' has no attribute 'get_peryfis' sdv
+06/23/2022 08:25:43::INFO::instabot.py::87 - Reiniciando bot em 2 minuto.
+06/23/2022 08:25:43::INFO::instabot.py::100 - Entrando em espera... 0.1 min
+06/23/2022 08:25:49::INFO::instabot.py::139 - Reiniciando sistema automáticamente...
+06/23/2022 08:25:51::ERROR::instabot.py::86 - Erro ao buscar perfis para a conta:type object 'Perfis' has no attribute 'get_peryfis' sdv
+06/23/2022 08:25:51::INFO::instabot.py::87 - Reiniciando bot em 2 minuto.
+06/23/2022 08:25:51::INFO::instabot.py::100 - Entrando em espera... 0.1 min
+06/23/2022 08:25:57::INFO::instabot.py::139 - Reiniciando sistema automáticamente...
+06/23/2022 08:25:58::ERROR::instabot.py::86 - Erro ao buscar perfis para a conta:type object 'Perfis' has no attribute 'get_peryfis' sdv
+06/23/2022 08:25:58::INFO::instabot.py::87 - Reiniciando bot em 2 minuto.
+06/23/2022 08:25:58::INFO::instabot.py::100 - Entrando em espera... 0.1 min
+06/23/2022 08:26:04::INFO::instabot.py::139 - Reiniciando sistema automáticamente...
+06/23/2022 08:26:05::ERROR::instabot.py::86 - Erro ao buscar perfis para a conta:type object 'Perfis' has no attribute 'get_peryfis' sdv
+06/23/2022 08:26:05::INFO::instabot.py::87 - Reiniciando bot em 2 minuto.
+06/23/2022 08:26:05::INFO::instabot.py::100 - Entrando em espera... 0.1 min
+06/23/2022 08:26:11::INFO::instabot.py::139 - Reiniciando sistema automáticamente...
+06/23/2022 08:26:12::ERROR::instabot.py::86 - Erro ao buscar perfis para a conta:type object 'Perfis' has no attribute 'get_peryfis' sdv
+06/23/2022 08:26:12::INFO::instabot.py::87 - Reiniciando bot em 2 minuto.
+06/23/2022 08:26:12::INFO::instabot.py::100 - Entrando em espera... 0.1 min
+06/23/2022 08:27:14::ERROR::instabot.py::86 - Erro ao buscar perfis para a conta:type object 'Perfis' has no attribute 'get_peryfis' fdhn
+06/23/2022 08:27:14::INFO::instabot.py::87 - Reiniciando bot em 2 minuto.
+06/23/2022 08:27:14::INFO::instabot.py::100 - Entrando em espera... 0.1 min
+06/23/2022 08:27:20::INFO::instabot.py::139 - Reiniciando sistema automáticamente...
+06/23/2022 08:27:22::INFO::instabot.py::100 - Entrando em espera... 0.1 min
+06/23/2022 08:27:28::ERROR::instabot.py::86 - Erro ao buscar perfis para a conta:type object 'Perfis' has no attribute 'get_peryfis' fdhn
+06/23/2022 08:27:28::INFO::instabot.py::87 - Reiniciando bot em 2 minuto.
+06/23/2022 08:27:28::INFO::instabot.py::100 - Entrando em espera... 0.1 min
+06/23/2022 08:33:29::INFO::instabot.py::50 - Login efetuado corretamente. Usuário:emilsonsn2018
+06/23/2022 08:33:33::ERROR::instabot.py::86 - Erro ao buscar perfis para a conta:type object 'Perfis' has no attribute 'get_peryfis' emilsonsn2018
+06/23/2022 08:33:33::INFO::instabot.py::87 - Reiniciando bot em 2 minuto.
+06/23/2022 08:33:33::INFO::instabot.py::100 - Entrando em espera... 2.0 min
+06/23/2022 08:34:11::INFO::instabot.py::50 - Login efetuado corretamente. Usuário:emilsonsn2018
+06/23/2022 08:34:15::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/23/2022 08:34:25::INFO::instabot.py::127 - Mensagem enviada com sucesso!
+06/23/2022 08:34:25::INFO::perfis.py::38 - Perfil atualizado. :eliana:
+06/23/2022 08:34:25::INFO::contas.py::16 - Contador atualizado.
+06/23/2022 08:34:26::INFO::instabot.py::100 - Entrando em espera... 1.0 min
+06/23/2022 08:35:26::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/23/2022 08:35:36::INFO::instabot.py::127 - Mensagem enviada com sucesso!
+06/23/2022 08:35:36::INFO::perfis.py::38 - Perfil atualizado. :matue30:
+06/23/2022 08:35:36::INFO::contas.py::16 - Contador atualizado.
+06/23/2022 08:35:37::INFO::instabot.py::100 - Entrando em espera... 1.0 min
+06/23/2022 08:36:37::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/23/2022 08:36:37::WARNING::instabot.py::82 - Não existe perfis pendentes para a conta. Planilha necessita de atualização para a conta: emilsonsn2018
+06/23/2022 08:36:37::INFO::instabot.py::100 - Entrando em espera... 10.0 min

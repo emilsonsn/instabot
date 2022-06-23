@@ -256,3 +256,403 @@ Stacktrace:
 #15 0x55a3fb3f3f1d <unknown>
 #16 0x7f8e62fd0b43 <unknown>
 
+06/22/2022 09:02:11::INFO::instabot.py::51 - Login efetuado corretamente. Usuário:emilson2018
+06/22/2022 09:02:12::WARNING::perfis.py::19 - Conta não econtrada na base de dados.
+06/22/2022 09:02:39::INFO::instabot.py::51 - Login efetuado corretamente. Usuário:emilsonsn2018
+06/22/2022 09:02:39::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 09:02:39::WARNING::instabot.py::65 - Não existe perfis pendentes para a conta. Planilha necessita de atualização para a conta: emilsonsn2018
+06/22/2022 09:02:39::INFO::instabot.py::73 - Entrando em espera... 10.0 min
+06/22/2022 09:03:46::INFO::instabot.py::51 - Login efetuado corretamente. Usuário:emilsonsn2018
+06/22/2022 09:03:46::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 09:04:18::INFO::perfis.py::47 - Perfil não válido. :ca1o_henr1que: Pulando para o próximo...
+06/22/2022 09:04:18::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 09:04:34::CRITICAL::instabot.py::105 - Problema inesperado na execução do script. Message: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x564aecbf0f33 <unknown>
+#1 0x564aec93afaf <unknown>
+#2 0x564aec9292e4 <unknown>
+#3 0x564aec929cf2 <unknown>
+#4 0x564aec92bb12 <unknown>
+#5 0x564aec923f16 <unknown>
+#6 0x564aec93c522 <unknown>
+#7 0x564aec9a1961 <unknown>
+#8 0x564aec98ee63 <unknown>
+#9 0x564aec96482a <unknown>
+#10 0x564aec965985 <unknown>
+#11 0x564aecc354cd <unknown>
+#12 0x564aecc395ec <unknown>
+#13 0x564aecc1f71e <unknown>
+#14 0x564aecc3a238 <unknown>
+#15 0x564aecc14870 <unknown>
+#16 0x564aecc56608 <unknown>
+#17 0x564aecc56788 <unknown>
+#18 0x564aecc70f1d <unknown>
+#19 0x7f474a0e9b43 <unknown>
+
+06/22/2022 09:04:34::INFO::instabot.py::106 - Reiniciando sistema em 5 minutos...
+06/22/2022 09:04:34::CRITICAL::instabot.py::105 - Problema inesperado na execução do script. Bot token is not defined
+06/22/2022 09:04:34::INFO::instabot.py::106 - Reiniciando sistema em 5 minutos...
+06/22/2022 09:07:50::INFO::instabot.py::51 - Login efetuado corretamente. Usuário:emilsonsn2018
+06/22/2022 09:07:51::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 09:08:22::INFO::perfis.py::47 - Perfil não válido. :whinderssonnunes: Pulando para o próximo...
+06/22/2022 09:08:22::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 09:08:29::CRITICAL::instabot.py::107 - Problema inesperado na execução do script. Message: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x55dc9f14ff33 <unknown>
+#1 0x55dc9ee99faf <unknown>
+#2 0x55dc9ee882e4 <unknown>
+#3 0x55dc9ee88cf2 <unknown>
+#4 0x55dc9ee8ab12 <unknown>
+#5 0x55dc9ee82f16 <unknown>
+#6 0x55dc9ee9b522 <unknown>
+#7 0x55dc9ef00961 <unknown>
+#8 0x55dc9eeede63 <unknown>
+#9 0x55dc9eec382a <unknown>
+#10 0x55dc9eec4985 <unknown>
+#11 0x55dc9f1944cd <unknown>
+#12 0x55dc9f1985ec <unknown>
+#13 0x55dc9f17e71e <unknown>
+#14 0x55dc9f199238 <unknown>
+#15 0x55dc9f173870 <unknown>
+#16 0x55dc9f1b5608 <unknown>
+#17 0x55dc9f1b5788 <unknown>
+#18 0x55dc9f1cff1d <unknown>
+#19 0x7f10ad68ab43 <unknown>
+
+06/22/2022 09:08:29::INFO::instabot.py::108 - Reiniciando sistema em 5 minutos...
+06/22/2022 09:08:29::CRITICAL::instabot.py::107 - Problema inesperado na execução do script. Bot token is not defined
+06/22/2022 09:08:29::INFO::instabot.py::108 - Reiniciando sistema em 5 minutos...
+06/22/2022 09:13:17::ERROR::instabot.py::53 - Erro inesperado ao tentar logar. Usuários:emilsonsn2018Message: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x5588a3f3df33 <unknown>
+#1 0x5588a3c87faf <unknown>
+#2 0x5588a3c762e4 <unknown>
+#3 0x5588a3c773f9 <unknown>
+#4 0x5588a3c78b12 <unknown>
+#5 0x5588a3c70f16 <unknown>
+#6 0x5588a3c89522 <unknown>
+#7 0x5588a3cee961 <unknown>
+#8 0x5588a3cdbe63 <unknown>
+#9 0x5588a3cb182a <unknown>
+#10 0x5588a3cb2985 <unknown>
+#11 0x5588a3f824cd <unknown>
+#12 0x5588a3f865ec <unknown>
+#13 0x5588a3f6c71e <unknown>
+#14 0x5588a3f87238 <unknown>
+#15 0x5588a3f61870 <unknown>
+#16 0x5588a3fa3608 <unknown>
+#17 0x5588a3fa3788 <unknown>
+#18 0x5588a3fbdf1d <unknown>
+#19 0x7f9b51fabb43 <unknown>
+
+06/22/2022 09:13:37::INFO::instabot.py::51 - Login efetuado corretamente. Usuário:emilsonsn2018
+06/22/2022 09:13:38::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 09:13:43::CRITICAL::instabot.py::111 - Problema inesperado na execução do script. Message: invalid argument: 'using' must be a string
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x5628bc089f33 <unknown>
+#1 0x5628bbdd4118 <unknown>
+#2 0x5628bbe09e02 <unknown>
+#3 0x5628bbe0a5c1 <unknown>
+#4 0x5628bbe3d601 <unknown>
+#5 0x5628bbe27f9d <unknown>
+#6 0x5628bbe3b2e4 <unknown>
+#7 0x5628bbe27e63 <unknown>
+#8 0x5628bbdfd82a <unknown>
+#9 0x5628bbdfe985 <unknown>
+#10 0x5628bc0ce4cd <unknown>
+#11 0x5628bc0d25ec <unknown>
+#12 0x5628bc0b871e <unknown>
+#13 0x5628bc0d3238 <unknown>
+#14 0x5628bc0ad870 <unknown>
+#15 0x5628bc0ef608 <unknown>
+#16 0x5628bc0ef788 <unknown>
+#17 0x5628bc109f1d <unknown>
+#18 0x7fe766c85b43 <unknown>
+
+06/22/2022 09:13:43::INFO::instabot.py::112 - Reiniciando sistema em 5 minutos...
+06/22/2022 09:14:50::INFO::instabot.py::51 - Login efetuado corretamente. Usuário:emilsonsn2018
+06/22/2022 09:14:50::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 09:14:57::CRITICAL::instabot.py::111 - Problema inesperado na execução do script. Message: element click intercepted: Element <div class="_aa4k">...</div> is not clickable at point (149, 84). Other element would receive the click: <div class="gs1a9yip rq0escxv j83agx80 cbu4d94t buofh1pr taijpn5t" style="--fds-black:#000000; --fds-black-alpha-05:rgba(0, 0, 0, 0.05); --fds-black-alpha-10:rgba(0, 0, 0, 0.1); --fds-black-alpha-15:rgba(0, 0, 0, 0.15); --fds-black-alpha-20:rgba(0, 0, 0, 0.2); --fds-black-alpha-30:rgba(0, 0, 0, 0.3); --fds-black-alpha-40:rgba(0, 0, 0, 0.4); --fds-black-alpha-50:rgba(0, 0, 0, 0.5); --fds-black-alpha-60:rgba(0, 0, 0, 0.6); --fds-black-alpha-80:rgba(0, 0, 0, 0.8); --fds-blue-05:#ECF3FF; --fds-blue-30:#AAC9FF; --fds-blue-40:#77A7FF; --fds-blue-60:#1877F2; --fds-blue-70:#2851A3; --fds-blue-80:#1D3C78; --fds-button-text:#444950; --fds-comment-background:#F2F3F5; --fds-dark-mode-gray-35:#CCCCCC; --fds-dark-mode-gray-50:#828282; --fds-dark-mode-gray-70:#4A4A4A; --fds-dark-mode-gray-80:#373737; --fds-dark-mode-gray-90:#282828; --fds-dark-mode-gray-100:#1C1C1C; --fds-gray-00:#F5F6F7; --fds-gray-05:#F2F3F5; --fds-gray-10:#EBEDF0; --fds-gray-20:#DADDE1; --fds-gray-25:#CCD0D5; --fds-gray-30:#BEC3C9; --fds-gray-45:#8D949E; --fds-gray-70:#606770; --fds-gray-80:#444950; --fds-gray-90:#303338; --fds-gray-100:#1C1E21; --fds-green-55:#00A400; --fds-highlight:#3578E5; --fds-highlight-cell-background:#ECF3FF; --fds-primary-icon:#1C1E21; --fds-primary-text:#1C1E21; --fds-red-55:#FA383E; --fds-soft:cubic-bezier(0.08,0.52,0.52,1); --fds-spectrum-aluminum-tint-70:#E4F0F6; --fds-spectrum-blue-gray-tint-70:#CFD1D5; --fds-spectrum-cherry:#F35369; --fds-spectrum-cherry-tint-70:#FBCCD2; --fds-spectrum-grape-tint-70:#DDD5F0; --fds-spectrum-grape-tint-90:#F4F1FA; --fds-spectrum-lemon-dark-1:#F5C33B; --fds-spectrum-lemon-tint-70:#FEF2D1; --fds-spectrum-lime:#A3CE71; --fds-spectrum-lime-tint-70:#E4F0D5; --fds-spectrum-orange-tint-70:#FCDEC5; --fds-spectrum-orange-tint-90:#FEF4EC; --fds-spectrum-seafoam-tint-70:#CAEEF9; --fds-spectrum-slate-dark-2:#89A1AC; --fds-spectrum-slate-tint-70:#EAEFF2; --fds-spectrum-teal:#6BCEBB; --fds-spectrum-teal-dark-1:#4DBBA6; --fds-spectrum-teal-dark-2:#31A38D; --fds-spectrum-teal-tint-70:#D2F0EA; --fds-spectrum-teal-tint-90:#F0FAF8; --fds-spectrum-tomato:#FB724B; --fds-spectrum-tomato-tint-30:#F38E7B; --fds-spectrum-tomato-tint-90:#FDEFED; --fds-strong:cubic-bezier(0.12,0.8,0.32,1); --fds-white:#FFFFFF; --fds-white-alpha-05:rgba(255, 255, 255, 0.05); --fds-white-alpha-10:rgba(255, 255, 255, 0.1); --fds-white-alpha-20:rgba(255, 255, 255, 0.2); --fds-white-alpha-30:rgba(255, 255, 255, 0.3); --fds-white-alpha-40:rgba(255, 255, 255, 0.4); --fds-white-alpha-50:rgba(255, 255, 255, 0.5); --fds-white-alpha-60:rgba(255, 255, 255, 0.6); --fds-white-alpha-80:rgba(255, 255, 255, 0.8); --fds-yellow-20:#FFBA00; --accent:#0095F6; --always-white:#FFFFFF; --always-black:black; --always-dark-gradient:linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.6)); --always-dark-overlay:rgba(0, 0, 0, 0.4); --always-light-overlay:rgba(255, 255, 255, 0.4); --always-gray-40:#65676B; --always-gray-75:#BCC0C4; --always-gray-95:#F0F2F5; --attachment-footer-background:#F0F2F5; --background-deemphasized:#F0F2F5; --base-blue:#1877F2; --base-cherry:#F3425F; --base-grape:#9360F7; --base-lemon:#F7B928; --base-lime:#45BD62; --base-pink:#FF66BF; --base-seafoam:#54C7EC; --base-teal:#2ABBA7; --base-tomato:#FB724B; --blue-link:#00376B; --card-background:#FFFFFF; --card-background-flat:#F7F8FA; --comment-background:#F0F2F5; --comment-footer-background:#F6F9FA; --dataviz-primary-1:rgb(48,200,180); --disabled-button-background:rgba(0, 149, 246, 0.3); --disabled-button-text:#FFFFFF; --disabled-icon:#BCC0C4; --disabled-text:#BCC0C4; --divider:#DBDBDB; --event-date:#F3425F; --fb-wordmark:#1877F2; --filter-accent:invert(39%) sepia(57%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(147.75%) hue-rotate(202deg) brightness(97%) contrast(96%); --filter-always-white:invert(100%); --filter-disabled-icon:invert(80%) sepia(6%) saturate(200%) saturate(120%) hue-rotate(173deg) brightness(98%) contrast(89%); --filter-placeholder-icon:invert(59%) sepia(11%) saturate(200%) saturate(135%) hue-rotate(176deg) brightness(96%) contrast(94%); --filter-primary-icon:invert(8%) sepia(10%) saturate(200%) saturate(200%) saturate(166%) hue-rotate(177deg) brightness(104%) contrast(91%); --filter-secondary-icon:invert(39%) sepia(21%) saturate(200%) saturate(109.5%) hue-rotate(174deg) brightness(94%) contrast(86%); --filter-warning-icon:invert(77%) sepia(29%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(128%) hue-rotate(359deg) brightness(102%) contrast(107%); --filter-blue-link-icon:invert(30%) sepia(98%) saturate(200%) saturate(200%) saturate(200%) saturate(166.5%) hue-rotate(192deg) brightness(91%) contrast(101%); --filter-positive:invert(37%) sepia(61%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(115%) hue-rotate(91deg) brightness(97%) contrast(105%); --filter-negative:invert(25%) sepia(33%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(110%) hue-rotate(345deg) brightness(132%) contrast(96%); --glimmer-spinner-icon:#65676B; --hero-banner-background:#FFFFFF; --hosted-view-selected-state:rgba(45, 136, 255, 0.1); --highlight-bg:#E7F3FF; --hover-overlay:rgba(0, 0, 0, 0.05); --media-hover:rgba(68, 73, 80, 0.15); --media-inner-border:rgba(0, 0, 0, 0.1); --media-outer-border:#FFFFFF; --media-pressed:rgba(68, 73, 80, 0.35); --messenger-card-background:#FFFFFF; --messenger-reply-background:#F0F2F5; --overlay-alpha-80:rgba(0, 0, 0, 0.65); --overlay-on-media:rgba(0, 0, 0, 0.6); --nav-bar-background:#FFFFFF; --nav-bar-background-gradient:linear-gradient(to top, #FFFFFF, rgba(255,255,255.9), rgba(255,255,255,0.7), rgba(255,255,255,0.4), rgba(255,255,255,0)); --nav-bar-background-gradient-wash:linear-gradient(to top, #F0F2F5, rgba(240,242,245.9), rgba(240,242,245,0.7), rgba(240,242,245,0.4), rgba(240,242,245,0)); --negative:hsl(350, 87%, 55%); --negative-background:hsl(350, 87%, 55%, 20%); --new-notification-background:#E7F3FF; --non-media-pressed:rgba(68, 73, 80, 0.15); --non-media-pressed-on-dark:rgba(255, 255, 255, 0.3); --notification-badge:#e41e3f; --placeholder-icon:#8A8D91; --placeholder-text:#8A8D91; --placeholder-text-on-media:rgba(255, 255, 255, 0.5); --popover-background:#FFFFFF; --positive:#31A24C; --positive-background:#DEEFE1; --press-overlay:rgba(0, 0, 0, 0.1); --primary-button-background:#0095F6; --primary-button-pressed:#77A7FF; --primary-button-text:#FFFFFF; --primary-deemphasized-button-background:rgba(0, 149, 246, 0.1); --primary-deemphasized-button-pressed:rgba(0, 149, 246, 0.05); --primary-deemphasized-button-pressed-overlay:rgba(0, 149, 246, 0.15); --primary-deemphasized-button-text:#0095F6; --primary-icon:#262626; --primary-text:#262626; --primary-text-on-media:#FFFFFF; --primary-web-focus-indicator:#D24294; --progress-ring-neutral-background:rgba(0, 0, 0, 0.2); --progress-ring-neutral-foreground:#000000; --progress-ring-on-media-background:rgba(255, 255, 255, 0.2); --progress-ring-on-media-foreground:#FFFFFF; --progress-ring-blue-background:rgba(24, 119, 242, 0.2); --progress-ring-blue-foreground:hsl(214, 89%, 52%); --progress-ring-disabled-background:rgba(190,195,201, 0.2); --progress-ring-disabled-foreground:#BEC3C9; --rating-star-active:#EB660D; --scroll-thumb:#BCC0C4; --scroll-shadow:0 1px 2px rgba(0, 0, 0, 0.1), 0 -1px rgba(0, 0, 0, 0.1) inset; --secondary-button-background:transparent; --secondary-button-background-floating:#ffffff; --secondary-button-background-on-dark:rgba(0, 0, 0, 0.4); --secondary-button-pressed:rgba(0, 0, 0, 0.05); --secondary-button-stroke:transparent; --secondary-button-text:#0095F6; --secondary-icon:#8E8E8E; --secondary-text:#8E8E8E; --secondary-text-on-media:rgba(255, 255, 255, 0.9); --section-header-text:#4B4C4F; --shadow-1:rgba(0, 0, 0, 0.1); --shadow-2:rgba(0, 0, 0, 0.2); --shadow-5:rgba(0, 0, 0, 0.5); --shadow-8:rgba(0, 0, 0, 0.8); --shadow-inset:rgba(255, 255, 255, 0.5); --surface-background:#FFFFFF; --text-highlight:rgba(24, 119, 242, 0.2); --toggle-active-background:#E7F3FF; --toggle-active-icon:rgb(24, 119, 242); --toggle-active-text:rgb(24, 119, 242); --toggle-button-active-background:#E7F3FF; --wash:#FAFAFA; --web-wash:#FAFAFA; --warning:hsl(40, 89%, 52%); --fb-logo-color:#2D88FF; --dialog-anchor-vertical-padding:56px; --header-height:0px; --global-panel-width:0px; --global-panel-width-expanded:0px; --button-corner-radius:4px; --card-corner-radius:4px; --fds-animation-enter-exit-in:cubic-bezier(0.14, 1, 0.34, 1); --fds-animation-enter-exit-out:cubic-bezier(0.45, 0.1, 0.2, 1); --fds-animation-swap-shuffle-in:cubic-bezier(0.14, 1, 0.34, 1); --fds-animation-swap-shuffle-out:cubic-bezier(0.45, 0.1, 0.2, 1); --fds-animation-move-in:cubic-bezier(0.17, 0.17, 0, 1); --fds-animation-move-out:cubic-bezier(0.17, 0.17, 0, 1); --fds-animation-expand-collapse-in:cubic-bezier(0.17, 0.17, 0, 1); --fds-animation-expand-collapse-out:cubic-bezier(0.17, 0.17, 0, 1); --fds-animation-passive-move-in:cubic-bezier(0.5, 0, 0.1, 1); --fds-animation-passive-move-out:cubic-bezier(0.5, 0, 0.1, 1); --fds-animation-quick-move-in:cubic-bezier(0.1, 0.9, 0.2, 1); --fds-animation-quick-move-out:cubic-bezier(0.1, 0.9, 0.2, 1); --fds-animation-fade-in:cubic-bezier(0, 0, 1, 1); --fds-animation-fade-out:cubic-bezier(0, 0, 1, 1); --fds-duration-extra-extra-short-in:100ms; --fds-duration-extra-extra-short-out:100ms; --fds-duration-extra-short-in:200ms; --fds-duration-extra-short-out:150ms; --fds-duration-short-in:280ms; --fds-duration-short-out:200ms; --fds-duration-medium-in:400ms; --fds-duration-medium-out:350ms; --fds-duration-long-in:500ms; --fds-duration-long-out:350ms; --fds-duration-extra-long-in:1000ms; --fds-duration-extra-long-out:1000ms; --fds-duration-none:0ms; --fds-fast:200ms; --fds-slow:400ms; --font-family-apple:system-ui, -apple-system, BlinkMacSystemFont, &quot;.SFNSText-Regular&quot;, sans-serif; --font-family-code:ui-monospace, Menlo, Consolas, Monaco, monospace; --font-family-default:Helvetica, Arial, sans-serif; --font-family-segoe:Segoe UI Historic, Segoe UI, Helvetica, Arial, sans-serif; --dataviz-primary-2:rgb(134,218,255); --dataviz-primary-3:rgb(95,170,255); --dataviz-secondary-1:rgb(118,62,230); --dataviz-secondary-2:rgb(147,96,247); --dataviz-secondary-3:rgb(219,26,139); --dataviz-supplementary-1:rgb(255,122,105); --dataviz-supplementary-2:rgb(241,168,23); --dataviz-supplementary-3:rgb(49,162,76); --dataviz-supplementary-4:rgb(50,52,54); --base-unit:4px; --breakpoint-medium-width:1536px; --breakpoint-small-width:1024px; --challenge-width:460px; --cluster-card-border-radius:8px; --creation-composer-height:81px; --creation-header-composer-height:126px; --desktop-cluster-card-height:89px; --desktop-collapsed-nav-height:52px; --desktop-grid-item-margin:28px; --desktop-in-feed-story-item-height:208px; --desktop-in-feed-story-item-width:116px; --desktop-large-modal-max-height:781px; --desktop-large-modal-max-width:1491px; --desktop-large-modal-min-height:664px; --desktop-large-modal-min-width:908px; --desktop-nav-anim-duration:0.2s; --desktop-nav-search-box-width:215px; --desktop-regular-nav-height:60px; --desktop-skinny-nav-height:60px; --desktop-nav-height:60px; --direct-attachment-image-grid-border-size:1px; --direct-attachment-image-grid-item-size:78px; --direct-attachment-image-grid-width:236px; --direct-attachment-story-height:150px; --direct-attachment-story-large-height:256px; --direct-attachment-story-large-width:164px; --direct-attachment-story-width:84px; --direct-message-margin:8px; --direct-message-max-width:236px; --extra-small-screen-max:413px; --fb-signup-page-profile-pic-size:88px; --feed-width-wide:614px; --feed-with-padding-threshold-min:640px; --font-family-system:-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; --font-weight-system-bold:700; --font-weight-system-extra-bold:800; --font-weight-system-extra-light:200; --font-weight-system-light:300; --font-weight-system-medium:500; --font-weight-system-regular:400; --font-weight-system-semibold:600; --grid-column-width-modal:6.25%; --grid-column-width:5.55556%; --hscc-collapse-transition-duration:0.3s; --igui-border-radius:3px; --in-feed-story-item-height:240px; --in-feed-story-item-width:135px; --input-border-radius:6px; --large-screen-min:876px; --like-animation-duration:1000ms; --live-video-border-radius:4px; --live-video-right-col-width:336px; --media-info:335px; --medium-screen-max:875px; --medium-screen-min:736px; --mobile-cluster-card-height:74px; --mobile-grid-item-margin:2px; --mobile-nav-height:45px; --modal-border-radius:12px; --modal-padding:16px; --modal-z-index:100; --photo:600px; --post-modal-large-screen-min:1536px; --post-modal-small-screen-max:1366px; --refinement-section-height:50px; --scrollable-content-header-height-large:56px; --scrollable-content-header-height:44px; --search-modal-height-expanded:450px; --search-modal-height:362px; --search-modal-top-offset:12px; --search-result-height:50px; --search-result-list-width:375px; --site-padding-top:30px; --site-width-narrow:600px; --site-width-wide:935px; --small-screen-max:735px; --small-screen-min:414px; --story-cube-shading-duration:200ms; --story-desktop-margin-bottom:26px; --story-desktop-margin-top:82px; --story-gallery-preview-scale-correction:2.5; --story-progressbar-update-tick:0.1s; --story-swap-animation-duration:350ms; --system-10-font-size:10px; --system-10-line-height:12px; --system-11-font-size:11px; --system-11-line-height:13px; --system-12-font-size:12px; --system-12-line-height:16px; --system-14-font-size:14px; --system-14-line-height:18px; --system-16-font-size:16px; --system-16-line-height:24px; --system-18-font-size:18px; --system-18-line-height:24px; --system-20-font-size:20px; --system-20-line-height:25px; --system-22-font-size:22px; --system-22-line-height:26px; --system-24-font-size:24px; --system-24-line-height:27px; --system-26-font-size:26px; --system-26-line-height:28px; --system-28-font-size:28px; --system-28-line-height:32px; --system-32-font-size:32px; --system-32-line-height:40px; --blue-0:#f5fbff; --blue-2:#b3dbff; --blue-4:#47afff; --blue-5:#0095f6; --blue-6:#0074cc; --blue-7:#0057a3; --blue-8:#00376b; --blue-9:#002952; --challenge-link:54,54,54; --clr-separator:#efefef; --clr_red_dark_30:#af2634; --cyan-5:#27c4f5; --docpen-lightgrey:243,243,243; --fb-connect-blue:#4f67b0; --green-4:#78de45; --green-5:#58c322; --green-6:#37a600; --grey-1:#efefef; --grey-2:#dbdbdb; --grey-4:#a8a8a8; --grey-5:#8e8e8e; --grey-6:#737373; --grey-8:#363636; --grey-9:#262626; --ig-badge:237,73,86; --ig-elevated-background:255,255,255; --ig-elevated-separator:219,219,219; --ig-error-or-destructive:237,73,86; --ig-facebook-blue:53,121,234; --ig-focus-stroke:168,168,168; --ig-highlight-background:239,239,239; --ig-link:0,55,107; --ig-primary-background:255,255,255; --ig-primary-button:0,149,246; --ig-primary-text:38,38,38; --ig-secondary-background:250,250,250; --ig-secondary-button:38,38,38; --ig-secondary-text:142,142,142; --ig-separator:219,219,219; --ig-stroke:219,219,219; --ig-success:88,195,34; --ig-temporary-highlight:245,251,255; --ig-tertiary-text:199,199,199; --ig-text-on-color:255,255,255; --orange-5:#fd8d32; --pink-5:#d10869; --post-separator:239,239,239; --post-step-indicator:168,168,168; --purple-5:#a307ba; --red-4:#ff6874; --red-5:#ed4956; --red-6:#c62330; --red-7:#a70311; --tos-box-shadow:0,0,0; --web-always-black:0,0,0; --web-always-white:255,255,255; --web-secondary-action:224,241,255; --yellow-5:#fdcb5c;">...</div>
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x56471f5e3f33 <unknown>
+#1 0x56471f32e118 <unknown>
+#2 0x56471f36ba42 <unknown>
+#3 0x56471f3695f2 <unknown>
+#4 0x56471f366c74 <unknown>
+#5 0x56471f3658c5 <unknown>
+#6 0x56471f3595b9 <unknown>
+#7 0x56471f381f72 <unknown>
+#8 0x56471f358e73 <unknown>
+#9 0x56471f38207e <unknown>
+#10 0x56471f3952e4 <unknown>
+#11 0x56471f381e63 <unknown>
+#12 0x56471f35782a <unknown>
+#13 0x56471f358985 <unknown>
+#14 0x56471f6284cd <unknown>
+#15 0x56471f62c5ec <unknown>
+#16 0x56471f61271e <unknown>
+#17 0x56471f62d238 <unknown>
+#18 0x56471f607870 <unknown>
+#19 0x56471f649608 <unknown>
+#20 0x56471f649788 <unknown>
+#21 0x56471f663f1d <unknown>
+#22 0x7f466ea3fb43 <unknown>
+
+06/22/2022 09:14:57::INFO::instabot.py::112 - Reiniciando sistema em 5 minutos...
+06/22/2022 09:15:51::INFO::instabot.py::51 - Login efetuado corretamente. Usuário:emilsonsn2018
+06/22/2022 09:15:51::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 09:16:05::CRITICAL::instabot.py::111 - Problema inesperado na execução do script. Message: element not interactable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x55f6b34cbf33 <unknown>
+#1 0x55f6b3215faf <unknown>
+#2 0x55f6b32467ce <unknown>
+#3 0x55f6b3245dbc <unknown>
+#4 0x55f6b3269f72 <unknown>
+#5 0x55f6b3240e73 <unknown>
+#6 0x55f6b326a07e <unknown>
+#7 0x55f6b327d2e4 <unknown>
+#8 0x55f6b3269e63 <unknown>
+#9 0x55f6b323f82a <unknown>
+#10 0x55f6b3240985 <unknown>
+#11 0x55f6b35104cd <unknown>
+#12 0x55f6b35145ec <unknown>
+#13 0x55f6b34fa71e <unknown>
+#14 0x55f6b3515238 <unknown>
+#15 0x55f6b34ef870 <unknown>
+#16 0x55f6b3531608 <unknown>
+#17 0x55f6b3531788 <unknown>
+#18 0x55f6b354bf1d <unknown>
+#19 0x7f44ca94bb43 <unknown>
+
+06/22/2022 09:16:05::INFO::instabot.py::112 - Reiniciando sistema em 5 minutos...
+06/22/2022 09:17:43::INFO::instabot.py::73 - Entrando em espera... 1.0 min
+06/22/2022 09:18:40::INFO::instabot.py::73 - Entrando em espera... 1.0 min
+06/22/2022 09:19:16::INFO::instabot.py::51 - Login efetuado corretamente. Usuário:emilsonsn2018
+06/22/2022 09:19:17::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 09:19:33::INFO::instabot.py::73 - Entrando em espera... 1.0 min
+06/22/2022 09:20:33::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 09:20:47::INFO::instabot.py::73 - Entrando em espera... 1.0 min
+06/22/2022 09:22:11::INFO::instabot.py::51 - Login efetuado corretamente. Usuário:emilsonsn2018
+06/22/2022 09:22:11::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 09:22:28::INFO::instabot.py::73 - Entrando em espera... 1.0 min
+06/22/2022 09:22:48::INFO::instabot.py::51 - Login efetuado corretamente. Usuário:emilsonsn2018
+06/22/2022 09:22:48::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 09:23:03::CRITICAL::instabot.py::112 - Problema inesperado na execução do script. Message: element click intercepted: Element <button class="_abl- _abm2" type="button">...</button> is not clickable at point (267, 84). Other element would receive the click: <div class="gs1a9yip rq0escxv j83agx80 cbu4d94t buofh1pr taijpn5t" style="--fds-black:#000000; --fds-black-alpha-05:rgba(0, 0, 0, 0.05); --fds-black-alpha-10:rgba(0, 0, 0, 0.1); --fds-black-alpha-15:rgba(0, 0, 0, 0.15); --fds-black-alpha-20:rgba(0, 0, 0, 0.2); --fds-black-alpha-30:rgba(0, 0, 0, 0.3); --fds-black-alpha-40:rgba(0, 0, 0, 0.4); --fds-black-alpha-50:rgba(0, 0, 0, 0.5); --fds-black-alpha-60:rgba(0, 0, 0, 0.6); --fds-black-alpha-80:rgba(0, 0, 0, 0.8); --fds-blue-05:#ECF3FF; --fds-blue-30:#AAC9FF; --fds-blue-40:#77A7FF; --fds-blue-60:#1877F2; --fds-blue-70:#2851A3; --fds-blue-80:#1D3C78; --fds-button-text:#444950; --fds-comment-background:#F2F3F5; --fds-dark-mode-gray-35:#CCCCCC; --fds-dark-mode-gray-50:#828282; --fds-dark-mode-gray-70:#4A4A4A; --fds-dark-mode-gray-80:#373737; --fds-dark-mode-gray-90:#282828; --fds-dark-mode-gray-100:#1C1C1C; --fds-gray-00:#F5F6F7; --fds-gray-05:#F2F3F5; --fds-gray-10:#EBEDF0; --fds-gray-20:#DADDE1; --fds-gray-25:#CCD0D5; --fds-gray-30:#BEC3C9; --fds-gray-45:#8D949E; --fds-gray-70:#606770; --fds-gray-80:#444950; --fds-gray-90:#303338; --fds-gray-100:#1C1E21; --fds-green-55:#00A400; --fds-highlight:#3578E5; --fds-highlight-cell-background:#ECF3FF; --fds-primary-icon:#1C1E21; --fds-primary-text:#1C1E21; --fds-red-55:#FA383E; --fds-soft:cubic-bezier(0.08,0.52,0.52,1); --fds-spectrum-aluminum-tint-70:#E4F0F6; --fds-spectrum-blue-gray-tint-70:#CFD1D5; --fds-spectrum-cherry:#F35369; --fds-spectrum-cherry-tint-70:#FBCCD2; --fds-spectrum-grape-tint-70:#DDD5F0; --fds-spectrum-grape-tint-90:#F4F1FA; --fds-spectrum-lemon-dark-1:#F5C33B; --fds-spectrum-lemon-tint-70:#FEF2D1; --fds-spectrum-lime:#A3CE71; --fds-spectrum-lime-tint-70:#E4F0D5; --fds-spectrum-orange-tint-70:#FCDEC5; --fds-spectrum-orange-tint-90:#FEF4EC; --fds-spectrum-seafoam-tint-70:#CAEEF9; --fds-spectrum-slate-dark-2:#89A1AC; --fds-spectrum-slate-tint-70:#EAEFF2; --fds-spectrum-teal:#6BCEBB; --fds-spectrum-teal-dark-1:#4DBBA6; --fds-spectrum-teal-dark-2:#31A38D; --fds-spectrum-teal-tint-70:#D2F0EA; --fds-spectrum-teal-tint-90:#F0FAF8; --fds-spectrum-tomato:#FB724B; --fds-spectrum-tomato-tint-30:#F38E7B; --fds-spectrum-tomato-tint-90:#FDEFED; --fds-strong:cubic-bezier(0.12,0.8,0.32,1); --fds-white:#FFFFFF; --fds-white-alpha-05:rgba(255, 255, 255, 0.05); --fds-white-alpha-10:rgba(255, 255, 255, 0.1); --fds-white-alpha-20:rgba(255, 255, 255, 0.2); --fds-white-alpha-30:rgba(255, 255, 255, 0.3); --fds-white-alpha-40:rgba(255, 255, 255, 0.4); --fds-white-alpha-50:rgba(255, 255, 255, 0.5); --fds-white-alpha-60:rgba(255, 255, 255, 0.6); --fds-white-alpha-80:rgba(255, 255, 255, 0.8); --fds-yellow-20:#FFBA00; --accent:#0095F6; --always-white:#FFFFFF; --always-black:black; --always-dark-gradient:linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.6)); --always-dark-overlay:rgba(0, 0, 0, 0.4); --always-light-overlay:rgba(255, 255, 255, 0.4); --always-gray-40:#65676B; --always-gray-75:#BCC0C4; --always-gray-95:#F0F2F5; --attachment-footer-background:#F0F2F5; --background-deemphasized:#F0F2F5; --base-blue:#1877F2; --base-cherry:#F3425F; --base-grape:#9360F7; --base-lemon:#F7B928; --base-lime:#45BD62; --base-pink:#FF66BF; --base-seafoam:#54C7EC; --base-teal:#2ABBA7; --base-tomato:#FB724B; --blue-link:#00376B; --card-background:#FFFFFF; --card-background-flat:#F7F8FA; --comment-background:#F0F2F5; --comment-footer-background:#F6F9FA; --dataviz-primary-1:rgb(48,200,180); --disabled-button-background:rgba(0, 149, 246, 0.3); --disabled-button-text:#FFFFFF; --disabled-icon:#BCC0C4; --disabled-text:#BCC0C4; --divider:#DBDBDB; --event-date:#F3425F; --fb-wordmark:#1877F2; --filter-accent:invert(39%) sepia(57%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(147.75%) hue-rotate(202deg) brightness(97%) contrast(96%); --filter-always-white:invert(100%); --filter-disabled-icon:invert(80%) sepia(6%) saturate(200%) saturate(120%) hue-rotate(173deg) brightness(98%) contrast(89%); --filter-placeholder-icon:invert(59%) sepia(11%) saturate(200%) saturate(135%) hue-rotate(176deg) brightness(96%) contrast(94%); --filter-primary-icon:invert(8%) sepia(10%) saturate(200%) saturate(200%) saturate(166%) hue-rotate(177deg) brightness(104%) contrast(91%); --filter-secondary-icon:invert(39%) sepia(21%) saturate(200%) saturate(109.5%) hue-rotate(174deg) brightness(94%) contrast(86%); --filter-warning-icon:invert(77%) sepia(29%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(128%) hue-rotate(359deg) brightness(102%) contrast(107%); --filter-blue-link-icon:invert(30%) sepia(98%) saturate(200%) saturate(200%) saturate(200%) saturate(166.5%) hue-rotate(192deg) brightness(91%) contrast(101%); --filter-positive:invert(37%) sepia(61%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(115%) hue-rotate(91deg) brightness(97%) contrast(105%); --filter-negative:invert(25%) sepia(33%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(110%) hue-rotate(345deg) brightness(132%) contrast(96%); --glimmer-spinner-icon:#65676B; --hero-banner-background:#FFFFFF; --hosted-view-selected-state:rgba(45, 136, 255, 0.1); --highlight-bg:#E7F3FF; --hover-overlay:rgba(0, 0, 0, 0.05); --media-hover:rgba(68, 73, 80, 0.15); --media-inner-border:rgba(0, 0, 0, 0.1); --media-outer-border:#FFFFFF; --media-pressed:rgba(68, 73, 80, 0.35); --messenger-card-background:#FFFFFF; --messenger-reply-background:#F0F2F5; --overlay-alpha-80:rgba(0, 0, 0, 0.65); --overlay-on-media:rgba(0, 0, 0, 0.6); --nav-bar-background:#FFFFFF; --nav-bar-background-gradient:linear-gradient(to top, #FFFFFF, rgba(255,255,255.9), rgba(255,255,255,0.7), rgba(255,255,255,0.4), rgba(255,255,255,0)); --nav-bar-background-gradient-wash:linear-gradient(to top, #F0F2F5, rgba(240,242,245.9), rgba(240,242,245,0.7), rgba(240,242,245,0.4), rgba(240,242,245,0)); --negative:hsl(350, 87%, 55%); --negative-background:hsl(350, 87%, 55%, 20%); --new-notification-background:#E7F3FF; --non-media-pressed:rgba(68, 73, 80, 0.15); --non-media-pressed-on-dark:rgba(255, 255, 255, 0.3); --notification-badge:#e41e3f; --placeholder-icon:#8A8D91; --placeholder-text:#8A8D91; --placeholder-text-on-media:rgba(255, 255, 255, 0.5); --popover-background:#FFFFFF; --positive:#31A24C; --positive-background:#DEEFE1; --press-overlay:rgba(0, 0, 0, 0.1); --primary-button-background:#0095F6; --primary-button-pressed:#77A7FF; --primary-button-text:#FFFFFF; --primary-deemphasized-button-background:rgba(0, 149, 246, 0.1); --primary-deemphasized-button-pressed:rgba(0, 149, 246, 0.05); --primary-deemphasized-button-pressed-overlay:rgba(0, 149, 246, 0.15); --primary-deemphasized-button-text:#0095F6; --primary-icon:#262626; --primary-text:#262626; --primary-text-on-media:#FFFFFF; --primary-web-focus-indicator:#D24294; --progress-ring-neutral-background:rgba(0, 0, 0, 0.2); --progress-ring-neutral-foreground:#000000; --progress-ring-on-media-background:rgba(255, 255, 255, 0.2); --progress-ring-on-media-foreground:#FFFFFF; --progress-ring-blue-background:rgba(24, 119, 242, 0.2); --progress-ring-blue-foreground:hsl(214, 89%, 52%); --progress-ring-disabled-background:rgba(190,195,201, 0.2); --progress-ring-disabled-foreground:#BEC3C9; --rating-star-active:#EB660D; --scroll-thumb:#BCC0C4; --scroll-shadow:0 1px 2px rgba(0, 0, 0, 0.1), 0 -1px rgba(0, 0, 0, 0.1) inset; --secondary-button-background:transparent; --secondary-button-background-floating:#ffffff; --secondary-button-background-on-dark:rgba(0, 0, 0, 0.4); --secondary-button-pressed:rgba(0, 0, 0, 0.05); --secondary-button-stroke:transparent; --secondary-button-text:#0095F6; --secondary-icon:#8E8E8E; --secondary-text:#8E8E8E; --secondary-text-on-media:rgba(255, 255, 255, 0.9); --section-header-text:#4B4C4F; --shadow-1:rgba(0, 0, 0, 0.1); --shadow-2:rgba(0, 0, 0, 0.2); --shadow-5:rgba(0, 0, 0, 0.5); --shadow-8:rgba(0, 0, 0, 0.8); --shadow-inset:rgba(255, 255, 255, 0.5); --surface-background:#FFFFFF; --text-highlight:rgba(24, 119, 242, 0.2); --toggle-active-background:#E7F3FF; --toggle-active-icon:rgb(24, 119, 242); --toggle-active-text:rgb(24, 119, 242); --toggle-button-active-background:#E7F3FF; --wash:#FAFAFA; --web-wash:#FAFAFA; --warning:hsl(40, 89%, 52%); --fb-logo-color:#2D88FF; --dialog-anchor-vertical-padding:56px; --header-height:0px; --global-panel-width:0px; --global-panel-width-expanded:0px; --button-corner-radius:4px; --card-corner-radius:4px; --fds-animation-enter-exit-in:cubic-bezier(0.14, 1, 0.34, 1); --fds-animation-enter-exit-out:cubic-bezier(0.45, 0.1, 0.2, 1); --fds-animation-swap-shuffle-in:cubic-bezier(0.14, 1, 0.34, 1); --fds-animation-swap-shuffle-out:cubic-bezier(0.45, 0.1, 0.2, 1); --fds-animation-move-in:cubic-bezier(0.17, 0.17, 0, 1); --fds-animation-move-out:cubic-bezier(0.17, 0.17, 0, 1); --fds-animation-expand-collapse-in:cubic-bezier(0.17, 0.17, 0, 1); --fds-animation-expand-collapse-out:cubic-bezier(0.17, 0.17, 0, 1); --fds-animation-passive-move-in:cubic-bezier(0.5, 0, 0.1, 1); --fds-animation-passive-move-out:cubic-bezier(0.5, 0, 0.1, 1); --fds-animation-quick-move-in:cubic-bezier(0.1, 0.9, 0.2, 1); --fds-animation-quick-move-out:cubic-bezier(0.1, 0.9, 0.2, 1); --fds-animation-fade-in:cubic-bezier(0, 0, 1, 1); --fds-animation-fade-out:cubic-bezier(0, 0, 1, 1); --fds-duration-extra-extra-short-in:100ms; --fds-duration-extra-extra-short-out:100ms; --fds-duration-extra-short-in:200ms; --fds-duration-extra-short-out:150ms; --fds-duration-short-in:280ms; --fds-duration-short-out:200ms; --fds-duration-medium-in:400ms; --fds-duration-medium-out:350ms; --fds-duration-long-in:500ms; --fds-duration-long-out:350ms; --fds-duration-extra-long-in:1000ms; --fds-duration-extra-long-out:1000ms; --fds-duration-none:0ms; --fds-fast:200ms; --fds-slow:400ms; --font-family-apple:system-ui, -apple-system, BlinkMacSystemFont, &quot;.SFNSText-Regular&quot;, sans-serif; --font-family-code:ui-monospace, Menlo, Consolas, Monaco, monospace; --font-family-default:Helvetica, Arial, sans-serif; --font-family-segoe:Segoe UI Historic, Segoe UI, Helvetica, Arial, sans-serif; --dataviz-primary-2:rgb(134,218,255); --dataviz-primary-3:rgb(95,170,255); --dataviz-secondary-1:rgb(118,62,230); --dataviz-secondary-2:rgb(147,96,247); --dataviz-secondary-3:rgb(219,26,139); --dataviz-supplementary-1:rgb(255,122,105); --dataviz-supplementary-2:rgb(241,168,23); --dataviz-supplementary-3:rgb(49,162,76); --dataviz-supplementary-4:rgb(50,52,54); --base-unit:4px; --breakpoint-medium-width:1536px; --breakpoint-small-width:1024px; --challenge-width:460px; --cluster-card-border-radius:8px; --creation-composer-height:81px; --creation-header-composer-height:126px; --desktop-cluster-card-height:89px; --desktop-collapsed-nav-height:52px; --desktop-grid-item-margin:28px; --desktop-in-feed-story-item-height:208px; --desktop-in-feed-story-item-width:116px; --desktop-large-modal-max-height:781px; --desktop-large-modal-max-width:1491px; --desktop-large-modal-min-height:664px; --desktop-large-modal-min-width:908px; --desktop-nav-anim-duration:0.2s; --desktop-nav-search-box-width:215px; --desktop-regular-nav-height:60px; --desktop-skinny-nav-height:60px; --desktop-nav-height:60px; --direct-attachment-image-grid-border-size:1px; --direct-attachment-image-grid-item-size:78px; --direct-attachment-image-grid-width:236px; --direct-attachment-story-height:150px; --direct-attachment-story-large-height:256px; --direct-attachment-story-large-width:164px; --direct-attachment-story-width:84px; --direct-message-margin:8px; --direct-message-max-width:236px; --extra-small-screen-max:413px; --fb-signup-page-profile-pic-size:88px; --feed-width-wide:614px; --feed-with-padding-threshold-min:640px; --font-family-system:-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; --font-weight-system-bold:700; --font-weight-system-extra-bold:800; --font-weight-system-extra-light:200; --font-weight-system-light:300; --font-weight-system-medium:500; --font-weight-system-regular:400; --font-weight-system-semibold:600; --grid-column-width-modal:6.25%; --grid-column-width:5.55556%; --hscc-collapse-transition-duration:0.3s; --igui-border-radius:3px; --in-feed-story-item-height:240px; --in-feed-story-item-width:135px; --input-border-radius:6px; --large-screen-min:876px; --like-animation-duration:1000ms; --live-video-border-radius:4px; --live-video-right-col-width:336px; --media-info:335px; --medium-screen-max:875px; --medium-screen-min:736px; --mobile-cluster-card-height:74px; --mobile-grid-item-margin:2px; --mobile-nav-height:45px; --modal-border-radius:12px; --modal-padding:16px; --modal-z-index:100; --photo:600px; --post-modal-large-screen-min:1536px; --post-modal-small-screen-max:1366px; --refinement-section-height:50px; --scrollable-content-header-height-large:56px; --scrollable-content-header-height:44px; --search-modal-height-expanded:450px; --search-modal-height:362px; --search-modal-top-offset:12px; --search-result-height:50px; --search-result-list-width:375px; --site-padding-top:30px; --site-width-narrow:600px; --site-width-wide:935px; --small-screen-max:735px; --small-screen-min:414px; --story-cube-shading-duration:200ms; --story-desktop-margin-bottom:26px; --story-desktop-margin-top:82px; --story-gallery-preview-scale-correction:2.5; --story-progressbar-update-tick:0.1s; --story-swap-animation-duration:350ms; --system-10-font-size:10px; --system-10-line-height:12px; --system-11-font-size:11px; --system-11-line-height:13px; --system-12-font-size:12px; --system-12-line-height:16px; --system-14-font-size:14px; --system-14-line-height:18px; --system-16-font-size:16px; --system-16-line-height:24px; --system-18-font-size:18px; --system-18-line-height:24px; --system-20-font-size:20px; --system-20-line-height:25px; --system-22-font-size:22px; --system-22-line-height:26px; --system-24-font-size:24px; --system-24-line-height:27px; --system-26-font-size:26px; --system-26-line-height:28px; --system-28-font-size:28px; --system-28-line-height:32px; --system-32-font-size:32px; --system-32-line-height:40px; --blue-0:#f5fbff; --blue-2:#b3dbff; --blue-4:#47afff; --blue-5:#0095f6; --blue-6:#0074cc; --blue-7:#0057a3; --blue-8:#00376b; --blue-9:#002952; --challenge-link:54,54,54; --clr-separator:#efefef; --clr_red_dark_30:#af2634; --cyan-5:#27c4f5; --docpen-lightgrey:243,243,243; --fb-connect-blue:#4f67b0; --green-4:#78de45; --green-5:#58c322; --green-6:#37a600; --grey-1:#efefef; --grey-2:#dbdbdb; --grey-4:#a8a8a8; --grey-5:#8e8e8e; --grey-6:#737373; --grey-8:#363636; --grey-9:#262626; --ig-badge:237,73,86; --ig-elevated-background:255,255,255; --ig-elevated-separator:219,219,219; --ig-error-or-destructive:237,73,86; --ig-facebook-blue:53,121,234; --ig-focus-stroke:168,168,168; --ig-highlight-background:239,239,239; --ig-link:0,55,107; --ig-primary-background:255,255,255; --ig-primary-button:0,149,246; --ig-primary-text:38,38,38; --ig-secondary-background:250,250,250; --ig-secondary-button:38,38,38; --ig-secondary-text:142,142,142; --ig-separator:219,219,219; --ig-stroke:219,219,219; --ig-success:88,195,34; --ig-temporary-highlight:245,251,255; --ig-tertiary-text:199,199,199; --ig-text-on-color:255,255,255; --orange-5:#fd8d32; --pink-5:#d10869; --post-separator:239,239,239; --post-step-indicator:168,168,168; --purple-5:#a307ba; --red-4:#ff6874; --red-5:#ed4956; --red-6:#c62330; --red-7:#a70311; --tos-box-shadow:0,0,0; --web-always-black:0,0,0; --web-always-white:255,255,255; --web-secondary-action:224,241,255; --yellow-5:#fdcb5c;">...</div>
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x55e2bd76bf33 <unknown>
+#1 0x55e2bd4b6118 <unknown>
+#2 0x55e2bd4f3a42 <unknown>
+#3 0x55e2bd4f15f2 <unknown>
+#4 0x55e2bd4eec74 <unknown>
+#5 0x55e2bd4ed8c5 <unknown>
+#6 0x55e2bd4e15b9 <unknown>
+#7 0x55e2bd509f72 <unknown>
+#8 0x55e2bd4e0e73 <unknown>
+#9 0x55e2bd50a07e <unknown>
+#10 0x55e2bd51d2e4 <unknown>
+#11 0x55e2bd509e63 <unknown>
+#12 0x55e2bd4df82a <unknown>
+#13 0x55e2bd4e0985 <unknown>
+#14 0x55e2bd7b04cd <unknown>
+#15 0x55e2bd7b45ec <unknown>
+#16 0x55e2bd79a71e <unknown>
+#17 0x55e2bd7b5238 <unknown>
+#18 0x55e2bd78f870 <unknown>
+#19 0x55e2bd7d1608 <unknown>
+#20 0x55e2bd7d1788 <unknown>
+#21 0x55e2bd7ebf1d <unknown>
+#22 0x7fb412b51b43 <unknown>
+
+06/22/2022 09:23:03::INFO::instabot.py::113 - Reiniciando sistema em 5 minutos...
+06/22/2022 09:26:43::INFO::instabot.py::51 - Login efetuado corretamente. Usuário:emilsonsn2018
+06/22/2022 09:26:43::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 09:28:03::INFO::instabot.py::51 - Login efetuado corretamente. Usuário:emilsonsn2018
+06/22/2022 09:28:04::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 09:30:05::WARNING::instabot.py::46 - Autenticação demorando muito...
+06/22/2022 09:30:11::WARNING::instabot.py::48 - Não foi possível efetuar o login corretamente. Usuário:emilsonsn2018
+06/22/2022 09:30:54::INFO::instabot.py::51 - Login efetuado corretamente. Usuário:emilsonsn2018
+06/22/2022 09:30:54::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 09:31:02::CRITICAL::instabot.py::115 - Problema inesperado na execução do script. Message: element click intercepted: Element <button class="_abl- _abm2" type="button">...</button> is not clickable at point (267, 84). Other element would receive the click: <div aria-hidden="false" class="_abw6 _abwd _abwb">...</div>
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x55da8a8cbf33 <unknown>
+#1 0x55da8a616118 <unknown>
+#2 0x55da8a653a42 <unknown>
+#3 0x55da8a6515f2 <unknown>
+#4 0x55da8a64ec74 <unknown>
+#5 0x55da8a64d8c5 <unknown>
+#6 0x55da8a6415b9 <unknown>
+#7 0x55da8a669f72 <unknown>
+#8 0x55da8a640e73 <unknown>
+#9 0x55da8a66a07e <unknown>
+#10 0x55da8a67d2e4 <unknown>
+#11 0x55da8a669e63 <unknown>
+#12 0x55da8a63f82a <unknown>
+#13 0x55da8a640985 <unknown>
+#14 0x55da8a9104cd <unknown>
+#15 0x55da8a9145ec <unknown>
+#16 0x55da8a8fa71e <unknown>
+#17 0x55da8a915238 <unknown>
+#18 0x55da8a8ef870 <unknown>
+#19 0x55da8a931608 <unknown>
+#20 0x55da8a931788 <unknown>
+#21 0x55da8a94bf1d <unknown>
+#22 0x7ff379945b43 <unknown>
+
+06/22/2022 09:31:02::INFO::instabot.py::116 - Reiniciando sistema em 5 minutos...
+06/22/2022 09:32:40::INFO::instabot.py::51 - Login efetuado corretamente. Usuário:emilsonsn2018
+06/22/2022 09:32:40::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 09:32:48::CRITICAL::instabot.py::117 - Problema inesperado na execução do script. Message: element click intercepted: Element <button class="_abl- _abm2" type="button">...</button> is not clickable at point (267, 84). Other element would receive the click: <div aria-hidden="false" class="_abw6 _abwd _abwb">...</div>
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x561bcb5ddf33 <unknown>
+#1 0x561bcb328118 <unknown>
+#2 0x561bcb365a42 <unknown>
+#3 0x561bcb3635f2 <unknown>
+#4 0x561bcb360c74 <unknown>
+#5 0x561bcb35f8c5 <unknown>
+#6 0x561bcb3535b9 <unknown>
+#7 0x561bcb37bf72 <unknown>
+#8 0x561bcb352e73 <unknown>
+#9 0x561bcb37c07e <unknown>
+#10 0x561bcb38f2e4 <unknown>
+#11 0x561bcb37be63 <unknown>
+#12 0x561bcb35182a <unknown>
+#13 0x561bcb352985 <unknown>
+#14 0x561bcb6224cd <unknown>
+#15 0x561bcb6265ec <unknown>
+#16 0x561bcb60c71e <unknown>
+#17 0x561bcb627238 <unknown>
+#18 0x561bcb601870 <unknown>
+#19 0x561bcb643608 <unknown>
+#20 0x561bcb643788 <unknown>
+#21 0x561bcb65df1d <unknown>
+#22 0x7f875eeb5b43 <unknown>
+
+06/22/2022 09:32:48::INFO::instabot.py::118 - Reiniciando sistema em 5 minutos...
+06/22/2022 09:36:26::INFO::instabot.py::51 - Login efetuado corretamente. Usuário:emilsonsn2018
+06/22/2022 09:36:27::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 09:36:35::CRITICAL::instabot.py::118 - Problema inesperado na execução do script. Message: element click intercepted: Element <button class="_abl- _abm2" type="button">...</button> is not clickable at point (267, 84). Other element would receive the click: <div aria-hidden="false" class="_abw6 _abwd _abwb">...</div>
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x55eb61852f33 <unknown>
+#1 0x55eb6159d118 <unknown>
+#2 0x55eb615daa42 <unknown>
+#3 0x55eb615d85f2 <unknown>
+#4 0x55eb615d5c74 <unknown>
+#5 0x55eb615d48c5 <unknown>
+#6 0x55eb615c85b9 <unknown>
+#7 0x55eb615f0f72 <unknown>
+#8 0x55eb615c7e73 <unknown>
+#9 0x55eb615f107e <unknown>
+#10 0x55eb616042e4 <unknown>
+#11 0x55eb615f0e63 <unknown>
+#12 0x55eb615c682a <unknown>
+#13 0x55eb615c7985 <unknown>
+#14 0x55eb618974cd <unknown>
+#15 0x55eb6189b5ec <unknown>
+#16 0x55eb6188171e <unknown>
+#17 0x55eb6189c238 <unknown>
+#18 0x55eb61876870 <unknown>
+#19 0x55eb618b8608 <unknown>
+#20 0x55eb618b8788 <unknown>
+#21 0x55eb618d2f1d <unknown>
+#22 0x7fd882cd0b43 <unknown>
+
+06/22/2022 09:36:35::INFO::instabot.py::119 - Reiniciando sistema em 5 minutos...
+06/22/2022 09:38:11::INFO::instabot.py::51 - Login efetuado corretamente. Usuário:emilsonsn2018
+06/22/2022 09:38:12::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 09:38:23::CRITICAL::instabot.py::118 - Problema inesperado na execução do script. Message: element click intercepted: Element <button class="_abl- _abm2" type="button">...</button> is not clickable at point (267, 84). Other element would receive the click: <div aria-hidden="false" class="_abw6 _abwd _abwb">...</div>
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x558a85d01f33 <unknown>
+#1 0x558a85a4c118 <unknown>
+#2 0x558a85a89a42 <unknown>
+#3 0x558a85a875f2 <unknown>
+#4 0x558a85a84c74 <unknown>
+#5 0x558a85a838c5 <unknown>
+#6 0x558a85a775b9 <unknown>
+#7 0x558a85a9ff72 <unknown>
+#8 0x558a85a76e73 <unknown>
+#9 0x558a85aa007e <unknown>
+#10 0x558a85ab32e4 <unknown>
+#11 0x558a85a9fe63 <unknown>
+#12 0x558a85a7582a <unknown>
+#13 0x558a85a76985 <unknown>
+#14 0x558a85d464cd <unknown>
+#15 0x558a85d4a5ec <unknown>
+#16 0x558a85d3071e <unknown>
+#17 0x558a85d4b238 <unknown>
+#18 0x558a85d25870 <unknown>
+#19 0x558a85d67608 <unknown>
+#20 0x558a85d67788 <unknown>
+#21 0x558a85d81f1d <unknown>
+#22 0x7fcf217b7b43 <unknown>
+
+06/22/2022 09:38:23::INFO::instabot.py::119 - Reiniciando sistema em 5 minutos...
+06/22/2022 09:39:41::ERROR::instabot.py::53 - Erro inesperado ao tentar logar. Usuários:emilsonsn2018Message: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x55dc38886f33 <unknown>
+#1 0x55dc385d0faf <unknown>
+#2 0x55dc385bf2e4 <unknown>
+#3 0x55dc385bfcf2 <unknown>
+#4 0x55dc385c1b12 <unknown>
+#5 0x55dc385b9f16 <unknown>
+#6 0x55dc385d2522 <unknown>
+#7 0x55dc38637961 <unknown>
+#8 0x55dc38624e63 <unknown>
+#9 0x55dc385fa82a <unknown>
+#10 0x55dc385fb985 <unknown>
+#11 0x55dc388cb4cd <unknown>
+#12 0x55dc388cf5ec <unknown>
+#13 0x55dc388b571e <unknown>
+#14 0x55dc388d0238 <unknown>
+#15 0x55dc388aa870 <unknown>
+#16 0x55dc388ec608 <unknown>
+#17 0x55dc388ec788 <unknown>
+#18 0x55dc38906f1d <unknown>
+#19 0x7fd433f83b43 <unknown>
+
+06/22/2022 09:40:30::ERROR::instabot.py::53 - Erro inesperado ao tentar logar. Usuários:eemilsonsn2018Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+#0 0x5583c14a2f33 <unknown>
+#1 0x5583c11ed118 <unknown>
+#2 0x5583c11cd0d8 <unknown>
+#3 0x5583c124451b <unknown>
+#4 0x5583c1253915 <unknown>
+#5 0x5583c1240e63 <unknown>
+#6 0x5583c121682a <unknown>
+#7 0x5583c1217985 <unknown>
+#8 0x5583c14e74cd <unknown>
+#9 0x5583c14eb5ec <unknown>
+#10 0x5583c14d171e <unknown>
+#11 0x5583c14ec238 <unknown>
+#12 0x5583c14c6870 <unknown>
+#13 0x5583c1508608 <unknown>
+#14 0x5583c1508788 <unknown>
+#15 0x5583c1522f1d <unknown>
+#16 0x7fe856307b43 <unknown>
+
+06/22/2022 09:40:47::INFO::instabot.py::51 - Login efetuado corretamente. Usuário:emilson.sn
+06/22/2022 09:40:47::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 09:41:02::INFO::instabot.py::73 - Entrando em espera... 1.0 min
+06/22/2022 09:48:37::INFO::instabot.py::51 - Login efetuado corretamente. Usuário:emilsonsn2018
+06/22/2022 09:48:38::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 09:48:49::INFO::instabot.py::73 - Entrando em espera... 1.0 min
+06/22/2022 09:49:49::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 09:55:31::INFO::instabot.py::51 - Login efetuado corretamente. Usuário:emilsonsn2018
+06/22/2022 09:55:31::INFO::perfis.py::26 - Base de perfis carregada com sucesso.
+06/22/2022 09:55:42::INFO::instabot.py::100 - Mensagem enviada com sucesso!
+06/22/2022 09:55:42::INFO::perfis.py::38 - Perfil atualizado. :euteto:
+06/22/2022 09:55:42::INFO::contas.py::16 - Contador atualizado.
+06/22/2022 09:55:43::INFO::instabot.py::73 - Entrando em espera... 1.0 min
